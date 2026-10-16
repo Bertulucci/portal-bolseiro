@@ -1,0 +1,2666 @@
+{
+ "meta": {
+  "gerado_em": "2026-10-06 20:36",
+  "fonte": "Matriz_Base_Esclarecimento_Duvidas_NOVA_FCT_v2_06out2026_CONSOLIDADA.xlsx",
+  "publicadas": 92,
+  "excluidas": [
+   "TIP-006 (Desativada — sobreposição com TIP-008)",
+   "FIM-003 (Desativada — sobreposição com FIM-007)",
+   "FIN-012 (Desativada — sobreposição com FIN-010)",
+   "FIM-008 (Desativada — sobreposição com FIM-002)",
+   "EXE-007 (Desativada — sobreposição com EXE-001)",
+   "EXC-009 (Desativada — sobreposição com EXC-004)"
+  ],
+  "en_publicado": true
+ },
+ "entradas": [
+  {
+   "id": "REG-001",
+   "tema": "Enquadramento e regime",
+   "subtema": "Regime e natureza jurídica",
+   "pt": {
+    "q": "Que regulamento se aplica à minha bolsa?",
+    "f": [
+     "Qual é o regulamento da minha bolsa?",
+     "A minha bolsa segue o regulamento da NOVA ou da FCT?",
+     "Onde vejo as regras da minha bolsa?"
+    ],
+    "r": "Confirme primeiro o Aviso de Abertura do Concurso, na secção relativa ao regulamento aplicável, e o seu contrato de bolsa. Se continuar a não ser claro, contacte o Secretariado responsável pela gestão da sua bolsa ou a Divisão de Recursos Humanos através do e-mail drh.bolsas@fct.unl.pt.",
+    "t": []
+   },
+   "en": {
+    "q": "Which regulations apply to my fellowship?",
+    "f": [
+     "Which rules apply to my fellowship?",
+     "Is my fellowship governed by NOVA or FCT regulations?",
+     "Where can I check the rules for my fellowship?"
+    ],
+    "r": "First check the Call for Applications, in the section identifying the applicable regulations, and your fellowship contract. If it is still unclear, contact the Secretariat responsible for managing your fellowship or the Human Resources Division at drh.bolsas@fct.unl.pt.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "EBI — Lei n.º 40/2004, art. 1.º; FCT — Regulamento n.º 950/2019, republicado pelo Aviso (extrato) n.º 412/2026/2; NOVA — Despacho n.º 9484/2023; contrato/aviso de abertura"
+  },
+  {
+   "id": "REG-002",
+   "tema": "Enquadramento e regime",
+   "subtema": "Regime e natureza jurídica",
+   "pt": {
+    "q": "A minha bolsa é um contrato de trabalho?",
+    "f": [
+     "A bolsa conta como emprego?",
+     "Sou trabalhador da NOVA por ter uma bolsa?",
+     "Tenho vínculo laboral?"
+    ],
+    "r": "Não. A bolsa de investigação não constitui um vínculo laboral nem uma relação de prestação de serviços.",
+    "t": [
+     "natureza",
+     "vínculo",
+     "trabalhador",
+     "empregado"
+    ]
+   },
+   "en": {
+    "q": "Is my fellowship an employment contract?",
+    "f": [
+     "Does my fellowship count as employment?",
+     "Am I a NOVA employee because I hold a fellowship?",
+     "Do I have an employment relationship?"
+    ],
+    "r": "No. A research fellowship does not constitute an employment relationship or a service contract.",
+    "t": [
+     "employee",
+     "employment",
+     "status",
+     "nature"
+    ]
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "EBI — art. 4.º; NOVA — art. 4.º, n.º 2"
+  },
+  {
+   "id": "TIP-001",
+   "tema": "Tipologias e duração",
+   "subtema": "Duração e limites",
+   "pt": {
+    "q": "Quanto tempo pode durar a minha BII?",
+    "f": [
+     "Qual é a duração máxima da BII?",
+     "A minha BII pode passar de um ano?",
+     "Por quanto tempo posso ter esta BII?"
+    ],
+    "r": "A BII pode ter duração mínima de 1 mês e não pode ultrapassar o limite total de 1 ano.",
+    "t": []
+   },
+   "en": {
+    "q": "How long can my BII fellowship last?",
+    "f": [
+     "What is the maximum duration of a BII?",
+     "Can my BII last more than one year?",
+     "How long may I hold this BII?"
+    ],
+    "r": "A BII may last for a minimum of 1 month and cannot exceed a total duration of 1 year.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "EBI — art. 3.º; NOVA — art. 6.º, n.os 3 e 4; FCT — art. 5.º, n.os 3 e 4"
+  },
+  {
+   "id": "TIP-002",
+   "tema": "Tipologias e duração",
+   "subtema": "Duração e limites",
+   "pt": {
+    "q": "Quanto tempo pode durar a minha BI?",
+    "f": [
+     "Qual é o limite da minha BI?",
+     "A BI pode ser renovada até quando?",
+     "Quanto tempo ainda posso ter de bolsa?"
+    ],
+    "r": "A BI tem, em regra, duração anual e não pode ser concedida por menos de três meses consecutivos. Com as renovações, pode durar até: um ano, se estiver inscrito num curso não conferente de grau académico; dois anos, se estiver inscrito num mestrado; quatro anos, se estiver inscrito num doutoramento.",
+    "t": []
+   },
+   "en": {
+    "q": "How long can my BI fellowship last?",
+    "f": [
+     "What is the limit for my BI?",
+     "How long can my BI be renewed?",
+     "How much fellowship time do I still have?"
+    ],
+    "r": "A BI fellowship normally lasts one year and cannot be granted for less than three consecutive months. With renewals, it may last up to: one year, if you are enrolled in a non-degree course; two years, if you are enrolled in a master's programme; four years, if you are enrolled in a doctoral programme.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "NOVA — art. 7.º, n.os 3 e 4; FCT — art. 6.º, n.os 3 e 4; EBI — art. 3.º, n.º 2"
+  },
+  {
+   "id": "TIP-003",
+   "tema": "Tipologias e duração",
+   "subtema": "Duração e limites",
+   "pt": {
+    "q": "Estou inscrito num curso não conferente de grau. A minha BI pode durar 24 meses?",
+    "f": [
+     "A minha BI CNCG pode ser renovada por mais 12 meses?",
+     "Posso ter uma BI de 24 meses num curso não conferente de grau?",
+     "Já tive 12 meses de BI, posso renovar mais 12?"
+    ],
+    "r": "Não num único contrato. Nesta situação, cada contrato pode ter no máximo 12 meses. O limite de 24 meses corresponde ao período acumulado de bolsas desta tipologia e pressupõe novo procedimento concursal e novo contrato.",
+    "t": []
+   },
+   "en": {
+    "q": "I am enrolled in a non-degree course. Can my BI last 24 months?",
+    "f": [
+     "Can my non-degree BI be renewed for another 12 months?",
+     "Can I have a 24-month BI for a non-degree course?",
+     "I have already had 12 months of BI; can I renew for another 12?"
+    ],
+    "r": "Not under a single contract. In this situation, each contract may last no more than 12 months. The 24-month limit is a cumulative limit for fellowships of this type and requires a new selection procedure and a new contract.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "FCT — art. 6.º, n.os 3-4; NOVA — art. 7.º, n.os 3-4"
+  },
+  {
+   "id": "TIP-004",
+   "tema": "Tipologias e duração",
+   "subtema": "Duração e limites",
+   "pt": {
+    "q": "Se eu concluir o grau durante a bolsa, o meu contrato muda?",
+    "f": [
+     "Acabei o mestrado durante a bolsa, muda alguma coisa?",
+     "Obtive o grau enquanto o contrato está em vigor; a bolsa acaba?",
+     "Tenho uma BI e terminei agora o mestrado; a bolsa acaba automaticamente?"
+    ],
+    "r": "Não por esse facto. A bolsa pode prosseguir nos termos previstos no seu contrato. No regime FCT, deve comunicar à entidade financiadora a obtenção do grau ou diploma.",
+    "t": []
+   },
+   "en": {
+    "q": "If I complete my degree during the fellowship, does my contract change?",
+    "f": [
+     "I finished my master's during the fellowship; does anything change?",
+     "I obtained my degree while holding the fellowship. Does the fellowship end?",
+     "I hold a BI and have just finished my master's; does the fellowship end automatically?"
+    ],
+    "r": "Not for that reason alone. The fellowship may continue under the terms set out in your contract. Under the FCT regime, you must inform the funding entity that you have obtained the degree or diploma.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "NOVA — art. 7.º, n.º 5; FCT — arts. 6.º, n.º 6, e 16.º, n.º 5"
+  },
+  {
+   "id": "TIP-005",
+   "tema": "Tipologias e duração",
+   "subtema": "Duração e limites",
+   "pt": {
+    "q": "Qual é a duração máxima da minha BIPD?",
+    "f": [
+     "Quanto tempo posso ter BIPD?",
+     "A BIPD pode ultrapassar 3 anos?",
+     "O limite de 3 anos conta tudo junto?"
+    ],
+    "r": "A BIPD não pode ser concedida por menos de três meses consecutivos, e o período acumulado nesta tipologia não pode exceder três anos, seguidos ou interpolados.",
+    "t": []
+   },
+   "en": {
+    "q": "What is the maximum duration of my BIPD?",
+    "f": [
+     "How long can I hold a BIPD?",
+     "Can a BIPD exceed 3 years?",
+     "Is the 3-year limit cumulative?"
+    ],
+    "r": "A BIPD fellowship cannot be granted for less than three consecutive months, and the cumulative period in this type of fellowship cannot exceed three years, consecutive or not.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [
+    "TIP-008"
+   ],
+   "referencia": "EBI — art. 3.º; NOVA — art. 8.º, n.os 3 e 6; FCT — art. 7.º, n.os 3 e 6"
+  },
+  {
+   "id": "MOB-001",
+   "tema": "Mobilidade / estrangeiro",
+   "subtema": "Componente no estrangeiro",
+   "pt": {
+    "q": "Posso realizar parte da minha BI no estrangeiro?",
+    "f": [
+     "Posso passar alguns meses fora durante a bolsa?",
+     "A minha bolsa pode ser mista?",
+     "Posso desenvolver parte do plano noutro país?"
+    ],
+    "r": "Pode, se estiver previsto no plano de trabalhos da sua bolsa.\nRegulamento da NOVA: a estadia no estrangeiro não pode exceder metade da duração da bolsa.\nRegulamento da FCT: nas bolsas mistas, o período no estrangeiro não pode ser superior a dois anos.",
+    "t": [
+     "mista",
+     "mistas",
+     "misto",
+     "estrangeiro"
+    ]
+   },
+   "en": {
+    "q": "Can I carry out part of my BI abroad?",
+    "f": [
+     "Can I spend a few months abroad during my fellowship?",
+     "Can my fellowship be mixed?",
+     "Can I carry out part of the work plan in another country?"
+    ],
+    "r": "Yes, if it is provided for in your fellowship work plan.\nNOVA Regulations: the stay abroad cannot exceed half of the fellowship duration.\nFCT Regulations: in mixed fellowships, the period abroad cannot exceed two years.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "NOVA — arts. 5.º, n.º 3, e 7.º, n.º 7; FCT — art. 6.º, n.os 7 e 8"
+  },
+  {
+   "id": "EXE-001",
+   "tema": "Execução da bolsa",
+   "subtema": "Alteração de condições",
+   "pt": {
+    "q": "Posso alterar o meu plano de trabalhos?",
+    "f": [
+     "Quero mudar os objetivos da bolsa, posso?",
+     "O plano pode ser alterado?",
+     "Posso fazer atividades diferentes das previstas?",
+     "Quero mudar o plano de trabalhos; é possível?",
+     "Posso combinar uma alteração diretamente com o orientador?"
+    ],
+    "r": "Pode, desde que haja acordo.\nRegulamento da NOVA: a alteração dos objetivos exige o assentimento do orientador científico, que a comunica à NOVA.\nRegulamento da FCT: a alteração das tarefas exige o assentimento dos orientadores e da entidade de acolhimento e é comunicada pelo bolseiro à entidade financiadora; a alteração dos objetivos só é possível em circunstâncias excecionais.",
+    "t": [
+     "objetivos",
+     "tarefas",
+     "mudar",
+     "alterar"
+    ]
+   },
+   "en": {
+    "q": "Can I change my work plan?",
+    "f": [
+     "I want to change the fellowship objectives; can I?",
+     "Can the work plan be amended?",
+     "Can I carry out activities different from those planned?",
+     "I want to change my work plan; is that possible?",
+     "Can I agree a change directly with my supervisor?"
+    ],
+    "r": "Yes, provided there is agreement.\nNOVA Regulations: changing the objectives requires the agreement of your scientific supervisor, who communicates it to NOVA.\nFCT Regulations: changing tasks requires the agreement of the supervisors and the host institution and is communicated by the fellow to the funding entity; objectives may only be changed in exceptional circumstances.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "NOVA — art. 23.º, n.os 1 e 2; FCT — art. 17.º, n.os 2 a 4"
+  },
+  {
+   "id": "EXE-002",
+   "tema": "Execução da bolsa",
+   "subtema": "Alteração de condições",
+   "pt": {
+    "q": "Posso mudar de orientador científico?",
+    "f": [
+     "Quero trocar de orientador, como faço?",
+     "O meu orientador vai mudar, é possível?",
+     "Podemos alterar o orientador da bolsa?"
+    ],
+    "r": "Só em circunstâncias excecionais e devidamente fundamentadas.\nRegulamento da NOVA: carece de autorização do Reitor ou do Diretor da Unidade Orgânica.\nRegulamento da FCT: o pedido é apresentado pelo bolseiro à entidade financiadora, antes da mudança, com parecer fundamentado dos envolvidos.",
+    "t": []
+   },
+   "en": {
+    "q": "Can I change my scientific supervisor?",
+    "f": [
+     "I want to change supervisor; what should I do?",
+     "My supervisor is going to change; is that possible?",
+     "Can the fellowship supervisor be changed?"
+    ],
+    "r": "Only in exceptional and duly justified circumstances.\nNOVA Regulations: it requires authorisation from the Rector or the Director of the Academic Unit.\nFCT Regulations: the fellow submits the request to the funding entity before the change, with a reasoned opinion from those involved.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "NOVA — art. 23.º, n.º 3; FCT — art. 17.º, n.os 4 e 5"
+  },
+  {
+   "id": "SUS-001",
+   "tema": "Suspensão",
+   "subtema": "Suspensão da bolsa",
+   "pt": {
+    "q": "Posso suspender a bolsa por doença?",
+    "f": [
+     "Fiquei doente e não consigo trabalhar, posso suspender?",
+     "A doença permite parar temporariamente a bolsa?"
+    ],
+    "r": "Sim. Tem direito a suspender as atividades da bolsa por motivo de doença, justificada por atestado médico ou declaração de doença certificada por estabelecimento hospitalar.",
+    "t": []
+   },
+   "en": {
+    "q": "Can I suspend my fellowship because of illness?",
+    "f": [
+     "I am on medical leave; what happens to my fellowship?",
+     "I am ill and cannot work; can I suspend it?",
+     "Can illness temporarily interrupt the fellowship?"
+    ],
+    "r": "Yes. You are entitled to suspend the fellowship activities due to illness, supported by a medical certificate or a sickness statement issued by a hospital.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "EBI — art. 9.º, n.º 1, al. g); NOVA — art. 26.º, n.º 1, al. b)"
+  },
+  {
+   "id": "SUS-002",
+   "tema": "Suspensão",
+   "subtema": "Suspensão da bolsa",
+   "pt": {
+    "q": "Posso suspender a bolsa por parentalidade?",
+    "f": [
+     "Vou ter um filho, posso suspender a bolsa?",
+     "A licença parental suspende a bolsa?",
+     "O que acontece à bolsa quando nasce o meu filho?"
+    ],
+    "r": "Sim. Tem direito a suspender as atividades da bolsa por motivo de parentalidade.",
+    "t": []
+   },
+   "en": {
+    "q": "Can I suspend my fellowship for reasons of parenthood?",
+    "f": [
+     "I am having a child; can I suspend my fellowship?",
+     "Does parental leave suspend the fellowship?",
+     "What happens to my fellowship when my child is born?"
+    ],
+    "r": "Yes. You are entitled to suspend the fellowship activities for parenthood reasons.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "EBI — art. 9.º, n.º 1, al. f); FCT — art. 23.º, n.º 1; NOVA — art. 26.º, n.º 1, al. a)"
+  },
+  {
+   "id": "SUS-003",
+   "tema": "Suspensão",
+   "subtema": "Suspensão da bolsa",
+   "pt": {
+    "q": "Posso suspender a bolsa para exercer temporariamente outra atividade remunerada?",
+    "f": [
+     "Tenho outro trabalho temporário, posso suspender a bolsa?",
+     "Vou exercer uma função remunerada durante alguns meses; posso parar e depois voltar?",
+     "Recebi uma proposta de trabalho; posso suspender a bolsa durante alguns meses e depois voltar?"
+    ],
+    "r": "Sim. Tem direito a suspender o contrato de bolsa para exercer transitoriamente outra função ou atividade remunerada, pública ou privada, incompatível com a dedicação exclusiva.",
+    "t": []
+   },
+   "en": {
+    "q": "Can I suspend my fellowship to temporarily take up another paid activity?",
+    "f": [
+     "I have a temporary job; can I suspend my fellowship?",
+     "I will take up a paid role for a few months; can I pause the fellowship and come back?",
+     "I have received a job offer; can I suspend my fellowship for a few months and then come back?"
+    ],
+    "r": "Yes. You are entitled to suspend the fellowship contract to temporarily carry out another paid public or private role or activity that is incompatible with exclusive dedication.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "EBI — art. 9.º, n.º 1, al. j); NOVA — art. 26.º, n.º 1, al. c)"
+  },
+  {
+   "id": "EXC-001",
+   "tema": "Exclusividade",
+   "subtema": "Regime de dedicação exclusiva",
+   "pt": {
+    "q": "Posso ter outro trabalho enquanto tenho bolsa?",
+    "f": [
+     "Posso trabalhar por fora?",
+     "Posso ter um emprego ao mesmo tempo que a bolsa?",
+     "A bolsa permite outra atividade remunerada?"
+    ],
+    "r": "Em regra, não. A bolsa é exercida em regime de dedicação exclusiva, e só são compatíveis as atividades previstas como exceção na lei e no regulamento, nas condições aí fixadas. Antes de iniciar outra atividade, contacte o Secretariado responsável pela gestão da sua bolsa.",
+    "t": []
+   },
+   "en": {
+    "q": "Can I have another job while holding the fellowship?",
+    "f": [
+     "Can I work elsewhere?",
+     "Can I have a job at the same time as the fellowship?",
+     "Does the fellowship allow another paid activity?"
+    ],
+    "r": "As a rule, no. The fellowship is held on an exclusive-dedication basis, and only activities provided for as exceptions by law or under the applicable regulations are compatible, under the conditions set out there. Before starting another activity, contact the Secretariat responsible for managing your fellowship.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [
+    "EXC-002",
+    "EXC-003",
+    "EXC-007",
+    "EXC-008"
+   ],
+   "referencia": "EBI — art. 5.º, n.º 2 e n.º 3; FCT — art. 16.º; NOVA — art. 22.º"
+  },
+  {
+   "id": "EXC-002",
+   "tema": "Exclusividade",
+   "subtema": "Regime de dedicação exclusiva",
+   "pt": {
+    "q": "Posso dar aulas numa universidade enquanto tenho bolsa?",
+    "f": [
+     "Posso dar aulas no ensino superior?",
+     "Quantas horas de aulas posso dar?",
+     "Tenho convite para dar aulas na Universidade; posso aceitar sem suspender a bolsa?",
+     "Posso dar aulas numa universidade enquanto tenho bolsa ou perco a bolsa?"
+    ],
+    "r": "Sim, dentro destes limites: até 4 horas por semana, sem exceder uma média de 3 horas semanais por semestre, sem responsabilidade exclusiva por cursos ou unidades curriculares, com a sua concordância e autorização prévia da entidade de acolhimento, e sem prejudicar o plano de trabalhos.",
+    "t": []
+   },
+   "en": {
+    "q": "Can I teach at a university while holding the fellowship?",
+    "f": [
+     "Can I teach in higher education?",
+     "How many teaching hours may I have?",
+     "I have been invited to teach at the university; can I accept without suspending my fellowship?",
+     "Can I teach at a university while holding my fellowship, or will I lose it?"
+    ],
+    "r": "Yes, within these limits: up to 4 hours per week, not exceeding an average of 3 hours per week per semester, without sole responsibility for courses or curricular units, with your agreement and the prior authorisation of the host institution, and without compromising the work plan.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "EBI — art. 5.º, n.º 3, al. h) e n.º 4; FCT — art. 16.º, n.º 3; NOVA — art. 22.º, n.º 2"
+  },
+  {
+   "id": "EXC-003",
+   "tema": "Exclusividade",
+   "subtema": "Regime de dedicação exclusiva",
+   "pt": {
+    "q": "Posso dar aulas no ensino básico ou secundário?",
+    "f": [
+     "Posso ser professor numa escola e manter a bolsa?",
+     "Quantas horas posso dar numa escola?",
+     "Posso acumular a bolsa com aulas no secundário?"
+    ],
+    "r": "Pode ser compatível dentro dos limites legais: até 6 horas semanais em média, com o limite máximo de 150 horas por ano letivo, com a sua concordância e autorização prévia da entidade de acolhimento e sem prejudicar o plano de trabalhos.",
+    "t": []
+   },
+   "en": {
+    "q": "Can I teach in primary or secondary education while holding the fellowship?",
+    "f": [
+     "Can I teach at a school and keep the fellowship?",
+     "How many hours may I teach at a school?",
+     "Can I combine the fellowship with secondary-school teaching?"
+    ],
+    "r": "It may be compatible within the legal limits: an average of up to 6 hours per week, with a maximum of 150 hours per academic year, with your agreement and the prior authorisation of the host institution and without compromising the work plan.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "EBI — art. 5.º, n.º 3, al. i), e n.º 4"
+  },
+  {
+   "id": "REN-001",
+   "tema": "Renovação",
+   "subtema": "Renovação do contrato",
+   "pt": {
+    "q": "A minha bolsa pode ser renovada?",
+    "f": [
+     "Posso renovar a bolsa?",
+     "O meu contrato acaba em breve, posso prolongar?",
+     "Tenho direito a renovação?"
+    ],
+    "r": "A renovação só é possível se estiver prevista no aviso de abertura do concurso e se forem cumpridas as condições e os limites aplicáveis à sua bolsa. Não é um direito automático.",
+    "t": []
+   },
+   "en": {
+    "q": "Can my fellowship be renewed?",
+    "f": [
+     "Can I renew my fellowship?",
+     "My contract ends soon; can it be extended?",
+     "Am I entitled to a renewal?"
+    ],
+    "r": "Renewal is only possible if it is provided for in the Call for Applications and if the conditions and limits applicable to your fellowship are met. It is not an automatic right.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "EBI — art. 6.º, n.º 1, al. e); FCT — art. 15.º, n.º 1; NOVA — art. 19.º"
+  },
+  {
+   "id": "REN-002",
+   "tema": "Renovação",
+   "subtema": "Renovação do contrato",
+   "pt": {
+    "q": "Quem pede a renovação da minha bolsa?",
+    "f": [
+     "Sou eu que tenho de pedir a renovação?",
+     "O meu orientador é que pede?",
+     "Quem inicia a renovação?"
+    ],
+    "r": "Depende do regulamento aplicável ao seu contrato de bolsa.\nRegulamento da NOVA: a renovação é proposta pelo Presidente do Departamento, pelo Coordenador da Unidade de I&D ou pelo Investigador Responsável.\nRegulamento da FCT: o pedido de renovação é apresentado pelo próprio bolseiro.",
+    "t": []
+   },
+   "en": {
+    "q": "Who requests the renewal of my fellowship?",
+    "f": [
+     "Do I have to request the renewal myself?",
+     "Does my supervisor request it?",
+     "Who starts the renewal process?"
+    ],
+    "r": "It depends on the regulations applicable to your fellowship contract.\nNOVA Regulations: renewal is proposed by the Head of Department, the Coordinator of the R&D Unit or the Principal Investigator.\nFCT Regulations: the renewal request is submitted by the fellow.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [
+    "REN-003",
+    "REN-004"
+   ],
+   "referencia": "FCT — art. 15.º, n.º 2; NOVA — art. 19.º, n.º 2"
+  },
+  {
+   "id": "REN-003",
+   "tema": "Renovação",
+   "subtema": "Renovação do contrato",
+   "pt": {
+    "q": "Com quanto tempo de antecedência deve ser pedida a renovação?",
+    "f": [
+     "Qual é o prazo para renovar?",
+     "Quando tenho de tratar da renovação?",
+     "O contrato acaba no próximo mês, ainda vou a tempo?"
+    ],
+    "r": "Depende do regulamento aplicável ao seu contrato de bolsa.\nRegulamento da NOVA: a proposta de renovação deve ser apresentada até 15 dias úteis antes do início do novo período, se a bolsa tiver duração inferior a 6 meses, ou até 30 dias úteis antes, se tiver duração superior a 6 meses.\nRegulamento da FCT: o bolseiro apresenta o pedido nos 60 dias úteis anteriores à data de início da renovação.",
+    "t": []
+   },
+   "en": {
+    "q": "How far in advance should the renewal be requested?",
+    "f": [
+     "What is the renewal deadline?",
+     "When should I deal with the renewal?",
+     "My contract ends next month; do I still have time?"
+    ],
+    "r": "It depends on the regulations applicable to your fellowship contract.\nNOVA Regulations: the renewal proposal must be submitted up to 15 working days before the start of the new period if the fellowship lasts less than 6 months, or up to 30 working days before if it lasts more than 6 months.\nFCT Regulations: you must submit the request within the 60 working days preceding the start date of the renewal.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [
+    "REN-002"
+   ],
+   "referencia": "NOVA — art. 19.º, n.º 2, als. a) e b); FCT — art. 15.º, n.º 2"
+  },
+  {
+   "id": "REN-004",
+   "tema": "Renovação",
+   "subtema": "Renovação do contrato",
+   "pt": {
+    "q": "Que documentos são necessários para renovar a bolsa?",
+    "f": [
+     "O que tenho de entregar para a renovação?",
+     "Preciso de comprovativo de matrícula?",
+     "É preciso parecer do orientador?"
+    ],
+    "r": "Depende do regulamento aplicável ao seu contrato de bolsa.\nRegulamento da NOVA: o pedido de renovação é acompanhado do parecer fundamentado do orientador científico. Na NOVA FCT, é também pedido o comprovativo de inscrição, quando aplicável.\nRegulamento da FCT: o pedido inclui os pareceres dos orientadores e da entidade de acolhimento, a declaração atualizada de dedicação exclusiva e, nas bolsas associadas a um ciclo de estudos ou curso, o comprovativo de renovação da inscrição, salvo se já estiver concluído.",
+    "t": []
+   },
+   "en": {
+    "q": "What documents are required to renew the fellowship?",
+    "f": [
+     "What do I have to submit for renewal?",
+     "Do I need proof of enrolment?",
+     "Is my supervisor's opinion required?"
+    ],
+    "r": "It depends on the regulations applicable to your fellowship contract.\nNOVA Regulations: the renewal request must be accompanied by a reasoned opinion from your scientific supervisor. At NOVA FCT, proof of enrolment is also requested, where applicable.\nFCT Regulations: the request includes the opinions of the supervisors and the host institution, an updated exclusive-dedication declaration and, for fellowships linked to a study cycle or course, proof of renewed enrolment, unless it has already been completed.",
+    "t": [
+     "documents",
+     "submit",
+     "opinion",
+     "proof",
+     "enrolment"
+    ]
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "NOVA — art. 19.º, n.os 2 a 4; FCT — art. 15.º, n.os 3 e 6, e art. 14.º, n.º 1, al. f); prática operacional NOVA FCT (comprovativo de inscrição)"
+  },
+  {
+   "id": "FIN-001",
+   "tema": "Pagamentos",
+   "subtema": "Componentes financeiras",
+   "pt": {
+    "q": "Quando é pago o subsídio da bolsa?",
+    "f": [
+     "Como recebo a bolsa?",
+     "O pagamento é mensal?",
+     "A bolsa é paga por transferência?"
+    ],
+    "r": "O subsídio da bolsa é pago mensalmente, por transferência bancária. Na NOVA FCT, o pagamento é efetuado no dia 23 de cada mês.",
+    "t": [
+     "recebo",
+     "receber",
+     "transferência",
+     "dia",
+     "quando"
+    ]
+   },
+   "en": {
+    "q": "When is the fellowship allowance paid?",
+    "f": [
+     "How do I receive the fellowship?",
+     "Is the payment monthly?",
+     "Is the fellowship paid by bank transfer?"
+    ],
+    "r": "The fellowship allowance is paid monthly by bank transfer. At NOVA FCT, payment is made on the 23rd of each month.",
+    "t": [
+     "receive",
+     "paid",
+     "transfer",
+     "day"
+    ]
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "NOVA — art. 29.º; FCT — arts. 18.º, n.º 1, e 20.º, n.º 1; EBI — art. 14.º; prática operacional DRH (dia 23)"
+  },
+  {
+   "id": "FIN-002",
+   "tema": "Pagamentos",
+   "subtema": "Componentes financeiras",
+   "pt": {
+    "q": "O valor da minha bolsa pode ser atualizado?",
+    "f": [
+     "O valor da bolsa muda todos os anos?",
+     "Tenho direito aos novos valores?",
+     "Há retroativos quando a tabela é atualizada?"
+    ],
+    "r": "Sim. Os valores das bolsas são atualizados anualmente, de acordo com o regulamento aplicável. Na NOVA FCT, quando a atualização é processada depois de janeiro, são efetuados os acertos retroativos a janeiro. No regime FCT, a atualização é definida até 31 de janeiro e processada até ao final do primeiro trimestre, incluindo os retroativos devidos.",
+    "t": []
+   },
+   "en": {
+    "q": "Can the amount of my fellowship be updated?",
+    "f": [
+     "Does the fellowship amount change every year?",
+     "Am I entitled to the new rates?",
+     "Are retroactive amounts paid when the table is updated?"
+    ],
+    "r": "Yes. Fellowship amounts are updated annually under the applicable regulations. At NOVA FCT, when the update is processed after January, retroactive adjustments to January are made. Under the FCT regime, the update is set by 31 January and processed by the end of the first quarter, including any retroactive amounts due.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "NOVA — art. 25.º, n.º 4; FCT — art. 18.º, n.os 2 e 3; prática operacional DRH (retroativos a janeiro)"
+  },
+  {
+   "id": "FIN-003",
+   "tema": "Pagamentos",
+   "subtema": "Componentes financeiras",
+   "pt": {
+    "q": "O valor da minha bolsa pode ser majorado?",
+    "f": [
+     "Posso receber acima da tabela?",
+     "A entidade pode aumentar o valor da bolsa?",
+     "Existe majoração da bolsa?"
+    ],
+    "r": "Pode existir majoração pela entidade de acolhimento, desde que sejam cumpridas as condições aplicáveis, nomeadamente quanto à fonte de financiamento e ao plano de trabalhos.",
+    "t": []
+   },
+   "en": {
+    "q": "Can my fellowship amount be increased above the standard rate?",
+    "f": [
+     "Can I receive more than the standard table amount?",
+     "Can the host institution increase my fellowship amount?",
+     "Is an increased fellowship amount allowed?"
+    ],
+    "r": "An increase in the fellowship amount may be granted by the host institution, subject to the applicable conditions, including the funding source and the work plan.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "NOVA — art. 25.º, n.os 2 e 3; FCT — art. 19.º, n.º 1, e Anexo I, nota 1; EBI — art. 13.º, n.º 4"
+  },
+  {
+   "id": "FIN-004",
+   "tema": "Pagamentos",
+   "subtema": "Componentes financeiras",
+   "pt": {
+    "q": "A bolsa pode pagar propinas ou matrícula?",
+    "f": [
+     "Tenho apoio para propinas?",
+     "A bolsa paga a inscrição no curso?",
+     "Posso pedir reembolso da matrícula?"
+    ],
+    "r": "Pode, se essa componente estiver prevista nas condições aplicáveis à sua bolsa; nem todas as bolsas a incluem. Consulte o Aviso de Abertura para confirmar.\nRegulamento da NOVA: o valor é pago ao bolseiro, que continua responsável pelo pagamento à instituição de ensino.\nRegulamento da FCT: se estiver inscrito numa instituição nacional, o valor é pago diretamente à instituição; se estiver inscrito numa instituição estrangeira, é pago ao bolseiro, que deve depois apresentar o comprovativo do pagamento.",
+    "t": []
+   },
+   "en": {
+    "q": "Can the fellowship cover tuition or enrolment fees?",
+    "f": [
+     "Is there support for tuition fees?",
+     "Does the fellowship pay my course enrolment fee?",
+     "Can I request reimbursement of my enrolment fee?"
+    ],
+    "r": "Yes, if this component is provided for in the conditions applicable to your fellowship; not all fellowships include it. Check the Call for Applications to confirm.\nNOVA Regulations: the amount is paid to the fellow, who remains responsible for paying the educational institution.\nFCT Regulations: if you are enrolled at a Portuguese institution, the amount is paid directly to that institution; if you are enrolled at a foreign institution, it is paid to you and you must then provide proof of payment.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "NOVA — art. 25.º, n.os 8, 9 e 12, e Anexo I, Tabela 2; FCT — art. 18.º, n.º 5, al. a), e n.º 14, e art. 20.º, n.os 2 e 3"
+  },
+  {
+   "id": "FIN-005",
+   "tema": "Pagamentos",
+   "subtema": "Componentes financeiras",
+   "pt": {
+    "q": "Posso ser reembolsado por viagens, alojamento ou alimentação?",
+    "f": [
+     "A bolsa paga deslocações?",
+     "Posso pedir despesas de viagem?",
+     "Tenho direito a alojamento numa deslocação?"
+    ],
+    "r": "O pagamento de despesas de viagem, alojamento ou alimentação pode ser efetuado quando a deslocação seja autorizada ou determinada pela NOVA FCT. Antes da deslocação, confirme junto do Secretariado responsável pela gestão da sua bolsa as condições aplicáveis.",
+    "t": []
+   },
+   "en": {
+    "q": "Can I be reimbursed for travel, accommodation or meals?",
+    "f": [
+     "Does the fellowship cover travel?",
+     "Can I claim travel expenses?",
+     "Am I entitled to accommodation costs during a trip?"
+    ],
+    "r": "Travel, accommodation or meal expenses may be paid when the trip is authorised or required by NOVA FCT. Before travelling, check the applicable conditions with the Secretariat responsible for managing your fellowship.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "NOVA — art. 25.º, n.os 6 e 7; FCT — art. 19.º, n.os 1 e 2"
+  },
+  {
+   "id": "SSV-001",
+   "tema": "Seguro Social Voluntário",
+   "subtema": "Seguro Social Voluntário",
+   "pt": {
+    "q": "Posso aderir ao Seguro Social Voluntário?",
+    "f": [
+     "Tenho direito ao SSV?",
+     "Como funciona o SSV para bolseiros?",
+     "A bolsa dá acesso à Segurança Social?"
+    ],
+    "r": "Sim, pode, desde que não esteja abrangido por um regime obrigatório de proteção social. A inscrição é da iniciativa do próprio bolseiro: é o bolseiro que adere, não a NOVA FCT que o inscreve. Os termos concretos da inscrição seguem a legislação da Segurança Social.",
+    "t": [
+     "aderir",
+     "adesão",
+     "inscrever",
+     "inscrição",
+     "direito"
+    ]
+   },
+   "en": {
+    "q": "Can I join the Voluntary Social Insurance scheme?",
+    "f": [
+     "Am I eligible for SSV?",
+     "How does SSV work for research fellows?",
+     "Does the fellowship give me access to Social Security?"
+    ],
+    "r": "Yes, provided you are not covered by a mandatory social protection scheme. Registration is your own initiative: you join the scheme yourself; NOVA FCT does not register you. The specific terms of registration follow Social Security legislation.",
+    "t": []
+   },
+   "ligacao": "https://www.seg-social.pt/ptss/pssd/menu/trabalho/remuneracoes-contribuicoes/seguro-social-voluntario",
+   "relacionadas": [],
+   "referencia": "EBI — art. 10.º; NOVA — art. 28.º; legislação da Segurança Social aplicável"
+  },
+  {
+   "id": "SSV-002",
+   "tema": "Seguro Social Voluntário",
+   "subtema": "Seguro Social Voluntário",
+   "pt": {
+    "q": "Quem paga as contribuições do SSV?",
+    "f": [
+     "Tenho de pagar o SSV primeiro?",
+     "A NOVA paga diretamente a Segurança Social?",
+     "Quem suporta o Seguro Social Voluntário?"
+    ],
+    "r": "As contribuições são pagas pelo bolseiro. A entidade financiadora reembolsa depois, tendo como referência o 1.º escalão contributivo. Se optar por um escalão superior, a diferença fica a seu cargo. Para saber como é feito o reembolso no seu caso, contacte o Secretariado responsável pela gestão da sua bolsa.",
+    "t": []
+   },
+   "en": {
+    "q": "Who pays the SSV contributions?",
+    "f": [
+     "Do I have to pay SSV first?",
+     "Does NOVA pay Social Security directly?",
+     "Who bears the cost of Voluntary Social Insurance?"
+    ],
+    "r": "Contributions are paid by the fellow. The funding entity then reimburses them, based on the first contribution tier. If you choose a higher tier, you are responsible for the difference. To find out how reimbursement works in your case, contact the Secretariat responsible for managing your fellowship.",
+    "t": []
+   },
+   "ligacao": "https://www.seg-social.pt/ptss/pssd/menu/trabalho/remuneracoes-contribuicoes/seguro-social-voluntario",
+   "relacionadas": [
+    "SSV-003",
+    "SSV-004"
+   ],
+   "referencia": "EBI — art. 10.º, n.º 4; NOVA — art. 28.º, n.º 2; legislação da Segurança Social aplicável"
+  },
+  {
+   "id": "SSV-003",
+   "tema": "Seguro Social Voluntário",
+   "subtema": "Seguro Social Voluntário",
+   "pt": {
+    "q": "Como peço o reembolso do SSV?",
+    "f": [
+     "Onde envio o comprovativo do SSV?",
+     "Como recebo de volta o que paguei à Segurança Social?",
+     "A quem mando o extrato do SSV?",
+     "Paguei vários meses de SSV. Tenho de enviar um comprovativo por cada mês?",
+     "Posso entregar o comprovativo do SSV na DRH?",
+     "Posso enviar o comprovativo do SSV por e-mail para a DRH?"
+    ],
+    "r": "Para pedir o reembolso do SSV, envie os comprovativos de pagamento ao Secretariado responsável pela gestão da sua bolsa. Se pedir o reembolso de vários meses, pode apresentar o comprovativo de cada mês ou um único extrato da Segurança Social onde constem os meses pagos; não é necessário apresentar ambos. Os comprovativos não são entregues à DRH, nem presencialmente nem por e-mail.",
+    "t": []
+   },
+   "en": {
+    "q": "How do I request reimbursement of my SSV contributions?",
+    "f": [
+     "Where do I send proof of SSV payment?",
+     "How do I get reimbursed for Social Security contributions?",
+     "Who should receive my SSV statement?",
+     "I paid several months of SSV. Do I have to send one proof of payment per month?",
+     "Can I hand in my SSV proof of payment at the HR Division?",
+     "Can I email my SSV proof of payment to the HR Division?"
+    ],
+    "r": "To request Voluntary Social Insurance (SSV) reimbursement, send proof of payment to the Secretariat responsible for managing your fellowship. If you are requesting reimbursement for several months, you may submit the proof for each month or a single Social Security statement showing the months paid; you do not need to submit both. Proof of payment is not submitted to the Human Resources Division, either in person or by email.",
+    "t": [
+     "proof",
+     "statement",
+     "send",
+     "submit"
+    ]
+   },
+   "ligacao": "",
+   "relacionadas": [
+    "SSV-010",
+    "SSV-013",
+    "SSV-004"
+   ],
+   "referencia": "NOVA — arts. 25.º, n.º 5, e 28.º; FCT — art. 22.º, n.º 2"
+  },
+  {
+   "id": "SSV-004",
+   "tema": "Seguro Social Voluntário",
+   "subtema": "Seguro Social Voluntário",
+   "pt": {
+    "q": "Se escolher um escalão de SSV mais alto, a bolsa reembolsa tudo?",
+    "f": [
+     "Posso escolher um escalão superior?",
+     "Se pagar mais de SSV recebo tudo de volta?",
+     "Qual é o escalão reembolsado?",
+     "Estou a pagar o SSV por um escalão superior; a bolsa reembolsa o valor todo?"
+    ],
+    "r": "Não. O reembolso do SSV tem como referência o valor correspondente ao 1.º escalão contributivo. Se optar por um escalão superior, a diferença fica a seu cargo.",
+    "t": []
+   },
+   "en": {
+    "q": "If I choose a higher SSV contribution tier, will the fellowship reimburse the full amount?",
+    "f": [
+     "Can I choose a higher contribution tier?",
+     "If I pay more SSV, will I get it all back?",
+     "Which contribution tier is reimbursed?",
+     "I pay SSV at a higher tier; does the fellowship reimburse the full amount?"
+    ],
+    "r": "No. Voluntary Social Insurance (SSV) reimbursement is based on the amount corresponding to the first contribution tier. If you choose a higher tier, you are responsible for the difference.",
+    "t": []
+   },
+   "ligacao": "https://www.seg-social.pt/ptss/pssd/menu/trabalho/remuneracoes-contribuicoes/seguro-social-voluntario",
+   "relacionadas": [
+    "SSV-002",
+    "SSV-003",
+    "SSV-013"
+   ],
+   "referencia": "EBI — art. 10.º, n.º 4; NOVA — art. 28.º, n.º 2 (art. 25.º, n.º 5, como enquadramento geral); FCT — art. 22.º, por remissão para o EBI"
+  },
+  {
+   "id": "SEG-001",
+   "tema": "Seguro de acidentes pessoais",
+   "subtema": "Seguro de acidentes pessoais",
+   "pt": {
+    "q": "Tenho seguro de acidentes pessoais por causa da bolsa?",
+    "f": [
+     "A bolsa inclui seguro?",
+     "Estou coberto por acidentes?",
+     "A NOVA tem seguro para bolseiros?"
+    ],
+    "r": "Sim. Tem direito a um seguro de acidentes pessoais relativamente às atividades de investigação desenvolvidas no âmbito da bolsa, incluindo as deslocações ao estrangeiro. A cobertura de um acidente concreto depende das condições da apólice.",
+    "t": []
+   },
+   "en": {
+    "q": "Do I have personal accident insurance through my fellowship?",
+    "f": [
+     "Does the fellowship include insurance?",
+     "Am I covered for accidents?",
+     "Does NOVA provide insurance for fellows?"
+    ],
+    "r": "Yes. You are entitled to personal accident insurance covering the research activities carried out under the fellowship, including travel abroad. Whether a specific accident is covered depends on the policy conditions.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [
+    "PRO-009"
+   ],
+   "referencia": "EBI — art. 9.º, n.º 1, al. e); NOVA — art. 27.º; FCT — art. 21.º"
+  },
+  {
+   "id": "FIM-001",
+   "tema": "Relatório final e cessação",
+   "subtema": "Termo e obrigações finais",
+   "pt": {
+    "q": "Tenho de entregar um relatório final?",
+    "f": [
+     "É obrigatório fazer relatório quando a bolsa termina?",
+     "O que tenho de entregar no fim da bolsa?",
+     "O orientador também tem de dar parecer?"
+    ],
+    "r": "Sim. No final da bolsa deve ser apresentado o relatório final, acompanhado do parecer do orientador científico, nos termos do regulamento aplicável.",
+    "t": [
+     "obrigatório",
+     "obrigação"
+    ]
+   },
+   "en": {
+    "q": "Do I have to submit a final report?",
+    "f": [
+     "Is a report required when the fellowship ends?",
+     "What do I have to submit at the end?",
+     "Does my supervisor also have to provide an opinion?"
+    ],
+    "r": "Yes. At the end of the fellowship, a final report must be submitted together with the scientific supervisor's opinion, under the applicable regulations.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [
+    "FIM-002",
+    "FIM-010"
+   ],
+   "referencia": "EBI — art. 12.º, als. c) e f), e art. 6.º, n.º 1, al. d); FCT — art. 24.º, n.º 1; NOVA — art. 32.º, n.º 1"
+  },
+  {
+   "id": "FIM-002",
+   "tema": "Relatório final e cessação",
+   "subtema": "Termo e obrigações finais",
+   "pt": {
+    "q": "Qual é o prazo para entregar o relatório final?",
+    "f": [
+     "Até quando posso enviar o relatório?",
+     "Tenho quantos dias depois de terminar?",
+     "O prazo é 15 ou 60 dias?",
+     "Quando devo entregar o relatório final?",
+     "Posso entregar antes de a bolsa terminar?",
+     "O meu contrato acaba amanhã; tenho de entregar o relatório antes do fim?"
+    ],
+    "r": "Depende do regulamento aplicável ao seu contrato de bolsa.\nRegulamento da NOVA: até 15 dias úteis após o termo da bolsa.\nRegulamento da FCT: até 60 dias úteis após o termo da bolsa.",
+    "t": []
+   },
+   "en": {
+    "q": "What is the deadline for submitting the final report?",
+    "f": [
+     "How long do I have to submit the report?",
+     "How many days do I have after the fellowship ends?",
+     "Is the deadline 15 or 60 days?",
+     "When should I submit the final report?",
+     "Can I submit it before the fellowship ends?",
+     "My contract ends tomorrow; do I have to submit the report before the end?"
+    ],
+    "r": "It depends on the regulations applicable to your fellowship contract.\nNOVA Regulations: within 15 working days after the end of the fellowship.\nFCT Regulations: within 60 working days after the end of the fellowship.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "NOVA — art. 32.º, n.º 1; FCT — art. 24.º, n.º 1"
+  },
+  {
+   "id": "FIM-004",
+   "tema": "Relatório final e cessação",
+   "subtema": "Termo e obrigações finais",
+   "pt": {
+    "q": "A bolsa termina automaticamente quando chega ao fim do contrato?",
+    "f": [
+     "O contrato acaba na data que está escrita?",
+     "Tenho de pedir para a bolsa terminar?",
+     "O que acontece quando chega a data final?"
+    ],
+    "r": "Sim. A bolsa cessa no termo do prazo pelo qual foi concedida ou renovada; não tem de pedir a sua cessação.",
+    "t": [
+     "termina",
+     "terminar",
+     "acaba",
+     "cessa",
+     "automaticamente"
+    ]
+   },
+   "en": {
+    "q": "Does the fellowship end automatically when the contract reaches its end date?",
+    "f": [
+     "Does the contract end on the date written in it?",
+     "Do I have to ask for the fellowship to end?",
+     "What happens on the final date?"
+    ],
+    "r": "Yes. The fellowship ends at the end of the period for which it was granted or renewed; you do not need to request its termination.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [
+    "REN-001"
+   ],
+   "referencia": "FCT — art. 26.º, n.º 1; minuta NOVA — cl. 6.ª; EBI — art. 17.º"
+  },
+  {
+   "id": "DIR-001",
+   "tema": "Direitos durante a bolsa",
+   "subtema": "Direitos do bolseiro",
+   "pt": {
+    "q": "Tenho direito a dias de descanso?",
+    "f": [
+     "Quantos dias posso descansar?"
+    ],
+    "r": "Sim. O EBI prevê um período de descanso até 22 dias úteis por ano civil, a acordar com o orientador.",
+    "t": []
+   },
+   "en": {
+    "q": "Am I entitled to rest days?",
+    "f": [
+     "How many rest days may I take?"
+    ],
+    "r": "Yes. The Research Fellow Statute (EBI) provides for a rest period of up to 22 working days per calendar year, to be agreed with the supervisor.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "EBI — art. 9.º, n.º 1, al. h)"
+  },
+  {
+   "id": "EXE-003",
+   "tema": "Execução da bolsa",
+   "subtema": "Alteração de condições",
+   "pt": {
+    "q": "O meu orientador pode mudar os objetivos da bolsa sem o meu conhecimento?",
+    "f": [
+     "O orientador pode alterar o meu plano sozinho?",
+     "Podem mudar o trabalho que faço na bolsa?",
+     "Tenho de aceitar qualquer alteração ao plano?"
+    ],
+    "r": "Não. O plano de trabalhos não pode ser alterado unilateralmente. Se tiver dúvidas sobre uma alteração, contacte o Secretariado responsável pela gestão da sua bolsa.",
+    "t": []
+   },
+   "en": {
+    "q": "Can my supervisor change the fellowship objectives without my knowledge?",
+    "f": [
+     "Can my supervisor change my work plan alone?",
+     "Can the work I do under the fellowship be changed?",
+     "Do I have to accept any change to the plan?"
+    ],
+    "r": "No. The work plan cannot be changed unilaterally. If you have questions about a change, contact the Secretariat responsible for managing your fellowship.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "EBI — art. 12.º, al. a); FCT — art. 17.º, n.º 4"
+  },
+  {
+   "id": "EXE-004",
+   "tema": "Execução da bolsa",
+   "subtema": "Acompanhamento científico",
+   "pt": {
+    "q": "Quem acompanha e avalia o trabalho que desenvolvo na bolsa?",
+    "f": [
+     "Quem supervisiona a minha bolsa?",
+     "Quem verifica se estou a cumprir o plano de trabalhos?",
+     "O meu trabalho é avaliado durante a bolsa?"
+    ],
+    "r": "O seu trabalho é supervisionado pelo orientador científico e acompanhado e avaliado pela entidade de acolhimento.",
+    "t": []
+   },
+   "en": {
+    "q": "Who monitors and assesses the work I carry out under the fellowship?",
+    "f": [
+     "Who supervises my fellowship?",
+     "Who checks whether I am following the work plan?",
+     "Is my work assessed during the fellowship?"
+    ],
+    "r": "Your work is supervised by your scientific supervisor and monitored and assessed by the host institution.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "EBI — arts. 5.º, n.º 1, 5.º-A e 13.º, n.º 1; FCT — art. 31.º"
+  },
+  {
+   "id": "SUS-004",
+   "tema": "Suspensão",
+   "subtema": "Parentalidade — pagamento",
+   "pt": {
+    "q": "Continuo a receber a bolsa durante a suspensão por parentalidade?",
+    "f": [
+     "A bolsa continua a ser paga durante a licença parental?",
+     "Se suspender por parentalidade fico sem receber?",
+     "O subsídio mensal mantém-se quando nasce o meu filho?"
+    ],
+    "r": "Pode manter-se, nas condições do regulamento aplicável ao seu contrato de bolsa.\nRegulamento da NOVA: o pagamento pode manter-se se não receber outras prestações do sistema de proteção social nessa situação e se as fontes de financiamento o permitirem.\nRegulamento da FCT: o pagamento pode manter-se pelo período da suspensão, se as fontes de financiamento o permitirem.",
+    "t": []
+   },
+   "en": {
+    "q": "Will I continue to receive my fellowship during a suspension for reasons of parenthood?",
+    "f": [
+     "Is the fellowship still paid during parental leave?",
+     "If I suspend for parenthood, do payments stop?",
+     "Is the monthly allowance maintained when my child is born?"
+    ],
+    "r": "It may continue, under the regulations applicable to your fellowship contract.\nNOVA Regulations: payment may continue if you do not receive other social protection benefits for that situation and if the funding sources allow it.\nFCT Regulations: payment may continue for the suspension period if the funding sources allow it.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "NOVA — art. 26.º, n.º 1, al. a); FCT — art. 23.º, n.º 2"
+  },
+  {
+   "id": "SUS-005",
+   "tema": "Suspensão",
+   "subtema": "Doença — pagamento",
+   "pt": {
+    "q": "Continuo a receber a bolsa enquanto estou com a bolsa suspensa por doença?",
+    "f": [
+     "Se suspender por doença continuo a receber?",
+     "Estou de baixa médica, a bolsa é paga?",
+     "A suspensão por doença corta o pagamento?"
+    ],
+    "r": "Pode ser mantido o pagamento da bolsa durante a suspensão por doença. Se for mantido, não há lugar ao pagamento de outros subsídios aplicáveis à mesma situação. Para saber se o pagamento se mantém no seu caso, contacte o Secretariado responsável pela gestão da sua bolsa.",
+    "t": []
+   },
+   "en": {
+    "q": "Will I continue to receive the fellowship while it is suspended because of illness?",
+    "f": [
+     "If I suspend because of illness, will I still be paid?",
+     "I am on medical leave; is the fellowship paid?",
+     "Does illness-related suspension stop payment?"
+    ],
+    "r": "Fellowship payment may continue during suspension due to illness. If it is, no other allowances are payable for the same situation. To find out whether payment continues in your case, contact the Secretariat responsible for managing your fellowship.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "EBI — art. 9.º, n.º 6"
+  },
+  {
+   "id": "EXC-004",
+   "tema": "Exclusividade",
+   "subtema": "Acumulação com bolsas/subsídios",
+   "pt": {
+    "q": "Posso receber outra bolsa ou subsídio ao mesmo tempo que a minha bolsa?",
+    "f": [
+     "Posso acumular duas bolsas?",
+     "Posso receber outro subsídio enquanto sou bolseiro?",
+     "Tenho outra bolsa, posso manter as duas?",
+     "Posso receber Erasmus e a bolsa?",
+     "Posso acumular com bolsa de mérito ou mobilidade?"
+    ],
+    "r": "Depende do apoio. Outra bolsa só pode ser acumulada quando expressamente acordado entre as entidades financiadoras. Bolsas de ação social e respetivos complementos, subsídio social de mobilidade, bolsas de mérito ou bolsas de apoio a períodos de mobilidade são compatíveis, desde que não estejam cobertos por uma componente da sua bolsa e não afastem o cumprimento do plano de trabalhos. Em caso de dúvida, contacte o Secretariado responsável pela gestão da sua bolsa.",
+    "t": []
+   },
+   "en": {
+    "q": "Can I receive another fellowship or grant at the same time as my current fellowship?",
+    "f": [
+     "Can I hold two fellowships at the same time?",
+     "Can I receive another grant while I am a research fellow?",
+     "I have another fellowship; can I keep both?",
+     "Can I receive Erasmus funding and my fellowship?",
+     "Can I combine it with a merit or mobility grant?"
+    ],
+    "r": "It depends on the type of support. Another fellowship may only be held at the same time if expressly agreed between the funding entities. Social-support grants and related supplements, social mobility allowances, merit scholarships or grants for mobility periods are compatible, provided they are not covered by a component of your fellowship and do not prevent you from fulfilling the work plan. If in doubt, contact the Secretariat responsible for managing your fellowship.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "NOVA — art. 22.º, n.os 6 e 7; FCT — art. 16.º, n.os 2 e 6"
+  },
+  {
+   "id": "EXC-005",
+   "tema": "Exclusividade",
+   "subtema": "Dever de informação",
+   "pt": {
+    "q": "Tenho de informar que comecei outra atividade remunerada?",
+    "f": [
+     "Arranjei um trabalho, tenho de avisar?",
+     "Tenho de comunicar uma atividade paga?",
+     "Posso começar a trabalhar e avisar depois?"
+    ],
+    "r": "Depende do regulamento aplicável ao seu contrato de bolsa.\nRegulamento da NOVA: quando seja exigido pedido de acumulação de funções, este é dirigido ao Reitor ou ao Diretor da Unidade Orgânica, com parecer do orientador científico.\nRegulamento da FCT: deve informar a entidade financiadora do exercício de qualquer atividade remunerada não prevista na candidatura.",
+    "t": []
+   },
+   "en": {
+    "q": "Do I have to report that I have started another paid activity?",
+    "f": [
+     "I got a job; do I have to report it?",
+     "Do I need to disclose paid work?",
+     "Can I start working and report it later?"
+    ],
+    "r": "It depends on the regulations applicable to your fellowship contract.\nNOVA Regulations: where a request to combine activities is required, it is addressed to the Rector or the Director of the Academic Unit, with an opinion from the scientific supervisor.\nFCT Regulations: you must inform the funding entity of any paid activity not included in your application.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "NOVA — art. 22.º, n.º 5; FCT — art. 16.º, n.º 4"
+  },
+  {
+   "id": "EXC-006",
+   "tema": "Exclusividade",
+   "subtema": "Alteração académica",
+   "pt": {
+    "q": "Tenho de informar se me inscrever noutro ciclo de estudos durante a bolsa?",
+    "f": [
+     "Comecei outro curso, tenho de avisar?",
+     "Inscrevi-me num doutoramento que não estava na candidatura, preciso comunicar?",
+     "Posso mudar de curso sem informar?"
+    ],
+    "r": "Depende do regulamento aplicável ao seu contrato de bolsa.\nRegulamento da FCT: deve informar a entidade financiadora da inscrição em qualquer ciclo de estudos não prevista na candidatura.\nRegulamento da NOVA: o regulamento não prevê esta comunicação; confirme junto do Secretariado responsável pela gestão da sua bolsa.",
+    "t": []
+   },
+   "en": {
+    "q": "Do I have to report if I enrol in another study programme during the fellowship?",
+    "f": [
+     "I started another course; do I need to report it?",
+     "I enrolled in a PhD that was not included in my application; must I report it?",
+     "Can I change courses without informing anyone?"
+    ],
+    "r": "It depends on the regulations applicable to your fellowship contract.\nFCT Regulations: you must inform the funding entity of enrolment in any study cycle not included in your application.\nNOVA Regulations: the regulations do not provide for this communication; check with the Secretariat responsible for managing your fellowship.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "FCT — art. 16.º, n.º 4"
+  },
+  {
+   "id": "REN-005",
+   "tema": "Renovação",
+   "subtema": "Formalização da renovação",
+   "pt": {
+    "q": "A renovação implica assinar um novo contrato?",
+    "f": [
+     "Tenho de assinar outro contrato quando a bolsa é renovada?",
+     "A renovação cria um contrato novo?",
+     "Como fica formalizada a renovação?"
+    ],
+    "r": "Não. A renovação não implica a assinatura de um novo contrato e é comunicada ao bolseiro por escrito. No regime NOVA, a comunicação pode também ser feita por e-mail, se tiver consentido nessa forma de notificação.",
+    "t": []
+   },
+   "en": {
+    "q": "Does renewal require signing a new contract?",
+    "f": [
+     "Do I have to sign another contract when the fellowship is renewed?",
+     "Does renewal create a new contract?",
+     "How is the renewal formalised?"
+    ],
+    "r": "No. Renewal does not require signing a new contract and is communicated to the fellow in writing. Under the NOVA regime, it may also be communicated by email, if you have consented to this form of notification.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "NOVA — art. 19.º, n.º 5; FCT — art. 15.º, n.º 7"
+  },
+  {
+   "id": "REN-006",
+   "tema": "Renovação",
+   "subtema": "Relatório na renovação",
+   "pt": {
+    "q": "Tenho de entregar um relatório de atividades para renovar a bolsa?",
+    "f": [
+     "É preciso relatório para pedir renovação?",
+     "Tenho de fazer um novo plano de trabalhos para renovar?",
+     "O relatório final é entregue na renovação?"
+    ],
+    "r": "Por regra, nem a NOVA nem a FCT exigem um relatório de atividades ou um novo plano de trabalhos no ato de renovação. A renovação assenta nos elementos previstos no regulamento aplicável.",
+    "t": []
+   },
+   "en": {
+    "q": "Do I have to submit an activity report to renew the fellowship?",
+    "f": [
+     "Is a report required for renewal?",
+     "Do I need a new work plan for renewal?",
+     "Is the final report submitted at renewal?"
+    ],
+    "r": "As a rule, neither NOVA nor FCT requires an activity report or a new work plan at the renewal stage. Renewal is based on the elements required by the applicable regulations.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [
+    "REN-004"
+   ],
+   "referencia": "FCT — arts. 15.º e 24.º; NOVA — arts. 19.º e 32.º"
+  },
+  {
+   "id": "FIN-006",
+   "tema": "Pagamentos",
+   "subtema": "Tabela de valores",
+   "pt": {
+    "q": "Onde é definido o valor da minha bolsa?",
+    "f": [
+     "De onde vem o valor mensal da bolsa?",
+     "Há uma tabela de valores?",
+     "Como sei qual é o valor correspondente à minha bolsa?"
+    ],
+    "r": "O valor da sua bolsa consta do Aviso de Abertura e é fixado com base na tabela de valores anexa ao regulamento aplicável.",
+    "t": []
+   },
+   "en": {
+    "q": "Where is the amount of my fellowship defined?",
+    "f": [
+     "Where does the monthly fellowship amount come from?",
+     "Is there a rate table?",
+     "How do I know the amount applicable to my fellowship?"
+    ],
+    "r": "The amount of your fellowship is stated in the Call for Applications and is set on the basis of the rate table annexed to the applicable regulations.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "NOVA — art. 25.º, n.os 1 e 12, e Anexo I; FCT — art. 18.º, n.º 1, e Anexo I; EBI — art. 6.º, n.º 2"
+  },
+  {
+   "id": "FIN-007",
+   "tema": "Pagamentos",
+   "subtema": "Reuniões científicas e formação",
+   "pt": {
+    "q": "A bolsa pode pagar a minha inscrição numa conferência?",
+    "f": [
+     "Posso pedir pagamento de congresso?",
+     "A bolsa cobre seminários?",
+     "Posso receber apoio para formação complementar?"
+    ],
+    "r": "A inscrição em conferências, reuniões científicas ou ações de formação pode ser apoiada pela bolsa quando esteja relacionada com a atividade da bolsa. Antes de se inscrever, confirme junto do Secretariado responsável pela gestão da sua bolsa as condições aplicáveis.",
+    "t": []
+   },
+   "en": {
+    "q": "Can my fellowship pay my conference registration fee?",
+    "f": [
+     "Can I request payment for a conference?",
+     "Does the fellowship cover seminars?",
+     "Can I receive support for complementary training?"
+    ],
+    "r": "Registration for conferences, scientific meetings or training may be supported by the fellowship when it is related to the fellowship activities. Before registering, check the applicable conditions with the Secretariat responsible for managing your fellowship.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "FCT — art. 18.º, n.os 7-8 + Anexo II; NOVA — art. 25.º, n.º 6"
+  },
+  {
+   "id": "FIN-008",
+   "tema": "Pagamentos",
+   "subtema": "Bolsa mista / estrangeiro",
+   "pt": {
+    "q": "Posso receber um valor diferente enquanto estiver no estrangeiro?",
+    "f": [
+     "O valor da bolsa aumenta quando vou para fora?",
+     "Há complemento para o período no estrangeiro?",
+     "Numa bolsa mista recebo mais?"
+    ],
+    "r": "O valor pode ser diferente quando o plano de trabalhos da sua bolsa preveja um período no estrangeiro.\nRegulamento da NOVA: nas bolsas mistas (BI e BIPD), o período em instituição estrangeira pode ser remunerado por um valor superior, de acordo com a tabela de valores.\nRegulamento da FCT: a tabela de valores fixa montantes diferentes para o país e para o estrangeiro.",
+    "t": []
+   },
+   "en": {
+    "q": "Can I receive a different amount while I am abroad?",
+    "f": [
+     "Does the fellowship amount increase when I go abroad?",
+     "Is there an additional amount for the period abroad?",
+     "Do I receive more under a mixed fellowship?"
+    ],
+    "r": "The amount may differ when your fellowship work plan includes a period abroad.\nNOVA Regulations: in mixed fellowships (BI and BIPD), the period at a foreign institution may be paid at a higher rate, according to the rate table.\nFCT Regulations: the rate table sets different amounts for periods in Portugal and abroad.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "NOVA — art. 25.º, n.º 10, e art. 5.º, n.º 3; FCT — art. 6.º, n.os 7 e 8, e Anexo I"
+  },
+  {
+   "id": "FIN-009",
+   "tema": "Pagamentos",
+   "subtema": "Pagamento proporcional",
+   "pt": {
+    "q": "Se a minha bolsa começar ou terminar a meio do mês, recebo o mês inteiro?",
+    "f": [
+     "Comecei a bolsa a meio do mês, quanto recebo?",
+     "O último mês é pago por inteiro?",
+     "Há pagamento proporcional?"
+    ],
+    "r": "Não. Nos meses em que a bolsa não abrange o mês inteiro, o subsídio é pago proporcionalmente aos dias de bolsa.",
+    "t": []
+   },
+   "en": {
+    "q": "If my fellowship starts or ends in the middle of a month, will I receive a full month's payment?",
+    "f": [
+     "I started the fellowship in the middle of the month; how much will I receive?",
+     "Is the final month paid in full?",
+     "Is payment proportional?"
+    ],
+    "r": "No. In months not fully covered by the fellowship, the allowance is paid in proportion to the days of the fellowship.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "FCT — art. 18.º, n.º 9; prática operacional DRH (regime NOVA)"
+  },
+  {
+   "id": "FIN-010",
+   "tema": "Pagamentos",
+   "subtema": "Subsídios adicionais",
+   "pt": {
+    "q": "Tenho direito a subsídio de férias ou de Natal?",
+    "f": [
+     "Recebo 13.º mês?",
+     "Há subsídio de férias para bolseiros?"
+    ],
+    "r": "Não. A bolsa não dá direito a subsídio de alimentação, de férias nem de Natal.",
+    "t": [
+     "13.º",
+     "natal",
+     "férias",
+     "décimo"
+    ]
+   },
+   "en": {
+    "q": "Am I entitled to holiday or Christmas allowances?",
+    "f": [
+     "Do I receive a 13th month payment?",
+     "Is there a holiday allowance for research fellows?"
+    ],
+    "r": "No. The fellowship does not include a meal allowance, holiday allowance or Christmas allowance.",
+    "t": [
+     "13th",
+     "christmas",
+     "holiday"
+    ]
+   },
+   "ligacao": "",
+   "relacionadas": [
+    "DIR-008"
+   ],
+   "referencia": "FCT — art. 18.º, n.º 15; NOVA — art. 25.º, n.º 11; EBI — art. 9.º, n.º 1, al. h)"
+  },
+  {
+   "id": "SSV-005",
+   "tema": "Seguro Social Voluntário",
+   "subtema": "Cobertura do SSV",
+   "pt": {
+    "q": "Para que serve o Seguro Social Voluntário?",
+    "f": [
+     "O que o SSV cobre?",
+     "Que proteção tenho com o SSV?",
+     "O SSV dá proteção em caso de doença ou parentalidade?"
+    ],
+    "r": "O Seguro Social Voluntário permite-lhe assegurar o direito à segurança social. Protege-o nas situações de invalidez, velhice, morte, doença, doenças profissionais e parentalidade.",
+    "t": []
+   },
+   "en": {
+    "q": "What is the purpose of Voluntary Social Insurance (SSV)?",
+    "f": [
+     "What does SSV cover?",
+     "What protection do I have under SSV?",
+     "Does SSV provide protection in case of illness or parenthood?",
+     "What is Voluntary Social Insurance for?"
+    ],
+    "r": "Voluntary Social Insurance allows you to secure your right to social security. It covers invalidity, old age, death, illness, occupational diseases and parenthood.",
+    "t": []
+   },
+   "ligacao": "https://www.seg-social.pt/ptss/pssd/menu/trabalho/remuneracoes-contribuicoes/seguro-social-voluntario",
+   "relacionadas": [
+    "SSV-001",
+    "SSV-007",
+    "SSV-008"
+   ],
+   "referencia": "EBI — art. 10.º, n.os 1 e 2"
+  },
+  {
+   "id": "SSV-006",
+   "tema": "Seguro Social Voluntário",
+   "subtema": "Condição de acesso",
+   "pt": {
+    "q": "Posso aderir ao SSV se já descontar para outro regime obrigatório?",
+    "f": [
+     "Tenho outro emprego com Segurança Social, posso ter SSV?",
+     "Se já estou abrangido pela Segurança Social posso aderir?",
+     "O SSV acumula com regime obrigatório?"
+    ],
+    "r": "Não. O SSV destina-se a quem não esteja enquadrado noutro regime de proteção social obrigatório, e não é possível estar nos dois ao mesmo tempo. Em caso de dúvida sobre a sua situação contributiva, confirme junto da Segurança Social.",
+    "t": []
+   },
+   "en": {
+    "q": "Can I join SSV if I am already covered by another mandatory social protection scheme?",
+    "f": [
+     "I have another job with Social Security contributions; can I have SSV?",
+     "If I am already covered by Social Security, can I join?",
+     "Can SSV coexist with a mandatory scheme?"
+    ],
+    "r": "No. Voluntary Social Insurance (SSV) is intended for people who are not covered by another mandatory social protection scheme, and you cannot be covered by both at the same time. If you are unsure about your contribution situation, check with Social Security.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "Código dos Regimes Contributivos — art. 170.º, n.º 2, al. b); Guia Prático ISS (B1, p. 4; D2, p. 18)"
+  },
+  {
+   "id": "FIM-005",
+   "tema": "Relatório final e cessação",
+   "subtema": "Causas de cessação",
+   "pt": {
+    "q": "Em que situações a minha bolsa pode terminar antes do prazo?",
+    "f": [
+     "A bolsa pode ser cancelada?",
+     "Posso perder a bolsa por incumprimento?",
+     "Em que casos o contrato cessa?"
+    ],
+    "r": "A bolsa pode cessar antes do prazo, nomeadamente por conclusão antecipada do plano de trabalhos, por violação grave ou reiterada dos deveres do bolseiro, por avaliação negativa do seu desempenho, por prestação de falsas declarações ou pela constituição de uma relação jurídico-laboral com a entidade de acolhimento. Quando aplicável, a cessação é precedida da audição do bolseiro. No regime NOVA, o contrato pode ainda cessar com a conclusão do projeto em que a bolsa se enquadra ou por mútuo acordo.",
+    "t": []
+   },
+   "en": {
+    "q": "In what situations can my fellowship end before the scheduled date?",
+    "f": [
+     "Can the fellowship be cancelled?",
+     "Can I lose the fellowship because of non-compliance?",
+     "In what cases does the contract end?"
+    ],
+    "r": "The fellowship may end early, including upon early completion of the work plan, serious or repeated breach of the fellow's duties, a negative performance assessment, false statements, or the establishment of an employment relationship with the host institution. Where applicable, termination is preceded by a hearing of the fellow. Under the NOVA regime, the contract may also end upon completion of the project under which the fellowship was awarded, or by mutual agreement.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "NOVA — art. 33.º e minuta, cl. 6.ª; FCT — arts. 25.º, 26.º e 28.º; EBI — art. 17.º"
+  },
+  {
+   "id": "FIM-006",
+   "tema": "Relatório final e cessação",
+   "subtema": "Relação laboral com acolhimento",
+   "pt": {
+    "q": "Se eu celebrar um contrato de trabalho com a entidade de acolhimento, a bolsa pode continuar?",
+    "f": [
+     "Fui contratado pela entidade onde tenho a bolsa, o que acontece?",
+     "Posso ter contrato de trabalho com a entidade de acolhimento e manter a bolsa?",
+     "Um vínculo laboral faz cessar a bolsa?"
+    ],
+    "r": "Não. A constituição de uma relação jurídico-laboral com a entidade de acolhimento é causa de cessação do contrato de bolsa. Antes de assinar o contrato de trabalho, informe o Secretariado responsável pela gestão da sua bolsa.",
+    "t": []
+   },
+   "en": {
+    "q": "If I sign an employment contract with the host institution, can the fellowship continue?",
+    "f": [
+     "I was hired by the institution hosting my fellowship; what happens?",
+     "Can I have an employment contract with the host institution and keep the fellowship?",
+     "Does an employment relationship terminate the fellowship?"
+    ],
+    "r": "No. Establishing an employment relationship with the host institution is a ground for terminating the fellowship contract. Before signing the employment contract, inform the Secretariat responsible for managing your fellowship.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "EBI — art. 17.º, al. f); minuta NOVA — cl. 6.ª"
+  },
+  {
+   "id": "TIP-011",
+   "tema": "Tipologias e duração",
+   "subtema": "Nova bolsa após BII",
+   "pt": {
+    "q": "Quando a minha BII terminar, posso ter outra BII?",
+    "f": [
+     "Já tive uma BII; posso concorrer a outra?",
+     "Ainda tenho tempo disponível de BII?"
+    ],
+    "r": "Depende do tempo de BII de que já beneficiou. O limite acumulado desta tipologia é de 12 meses. Se ainda houver margem dentro desse limite e estiverem cumpridos os requisitos aplicáveis, poderá haver nova bolsa; se já tiver completado os 12 meses, não pode beneficiar de novo período de BII.",
+    "t": []
+   },
+   "en": {
+    "q": "When my BII ends, can I have another BII?",
+    "f": [
+     "I already had a BII; can I apply for another one?",
+     "Do I still have BII time available?"
+    ],
+    "r": "It depends on how much BII time you have already used. The cumulative limit for this fellowship type is 12 months. If time remains within that limit and the applicable requirements are met, a new fellowship may be possible; once the 12-month limit has been reached, no further BII period is available.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "NOVA — art. 6.º, n.os 3 a 5; FCT — art. 5.º, n.os 3 a 5"
+  },
+  {
+   "id": "TIP-007",
+   "tema": "Tipologias e duração",
+   "subtema": "Nova bolsa após BI",
+   "pt": {
+    "q": "Quando a minha BI terminar, posso ter outra BI?",
+    "f": [
+     "Já tive uma BI; posso concorrer a outra?",
+     "Posso ter sucessivos contratos de BI?"
+    ],
+    "r": "Depende da situação académica e do tempo de BI de que já beneficiou. Para cursos não conferentes de grau, cada contrato pode ter no máximo 12 meses e o limite acumulado pode atingir 24 meses mediante novo concurso e novo contrato. Para mestrado e doutoramento aplicam-se os respetivos limites acumulados.",
+    "t": []
+   },
+   "en": {
+    "q": "When my BI ends, can I have another BI?",
+    "f": [
+     "I already had a BI; can I apply for another one?",
+     "Can I have successive BI contracts?"
+    ],
+    "r": "It depends on your academic situation and the BI time already used. For non-degree courses, each contract may last no more than 12 months and the cumulative limit may reach 24 months through a new call for applications and a new contract. For master's and doctoral programmes, the respective cumulative limits apply.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "NOVA — art. 7.º; FCT — art. 6.º; EBI — art. 3.º"
+  },
+  {
+   "id": "TIP-008",
+   "tema": "Tipologias e duração",
+   "subtema": "Nova bolsa após BIPD",
+   "pt": {
+    "q": "Quando a minha BIPD terminar, posso ter outra BIPD?",
+    "f": [
+     "Já tive BIPD; posso celebrar novo contrato?",
+     "Posso voltar a ter BIPD?",
+     "Posso ter outra BIPD depois de 3 anos?",
+     "Acabou a minha BIPD, posso celebrar uma nova?",
+     "Posso recomeçar a contagem da BIPD?"
+    ],
+    "r": "Terminado o contrato de BIPD, não pode ser celebrado novo contrato de bolsa:\nRegulamento da NOVA: entre a NOVA e o mesmo bolseiro.\nRegulamento da FCT: entre a mesma entidade de acolhimento e o mesmo bolseiro.",
+    "t": []
+   },
+   "en": {
+    "q": "When my BIPD ends, can I have another BIPD?",
+    "f": [
+     "I already had a BIPD; can I sign a new contract?",
+     "Can I hold another BIPD?",
+     "Can I have another BIPD after 3 years?",
+     "My BIPD ended; can I sign a new one?",
+     "Can the BIPD time limit restart?"
+    ],
+    "r": "Once the BIPD contract ends, no new fellowship contract may be concluded:\nNOVA Regulations: between NOVA and the same fellow.\nFCT Regulations: between the same host institution and the same fellow.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "NOVA — art. 8.º, n.º 7; FCT — art. 7.º, n.º 7; EBI — art. 3.º, n.º 4"
+  },
+  {
+   "id": "EXC-007",
+   "tema": "Exclusividade",
+   "subtema": "Atividade remunerada pontual",
+   "pt": {
+    "q": "Se eu fizer um trabalho pontual remunerado, é compatível com a bolsa?",
+    "f": [
+     "Posso receber honorários?",
+     "Posso fazer um trabalho ocasional?"
+    ],
+    "r": "Uma atividade pontual remunerada pode ser compatível com a dedicação exclusiva, desde que cumpra as condições previstas. São compatíveis, entre outras, as atividades externas desempenhadas sem caráter de permanência ou diretamente relacionadas com o plano de trabalhos, desde que não prejudiquem a sua execução, bem como, por exemplo, conferências e palestras, cursos de formação profissional de curta duração ou direitos de autor. Antes de iniciar a atividade, contacte o Secretariado responsável pela gestão da sua bolsa ou a Divisão de Recursos Humanos através de drh.bolsas@fct.unl.pt.",
+    "t": []
+   },
+   "en": {
+    "q": "If I do occasional paid work, is it compatible with my fellowship?",
+    "f": [
+     "Can I receive fees?",
+     "Can I do occasional paid work?"
+    ],
+    "r": "An occasional paid activity may be compatible with exclusive dedication, provided it meets the applicable conditions. Compatible activities include, among others, external activities carried out on a non-permanent basis or directly related to the work plan, provided they do not compromise its execution, as well as, for example, conferences and lectures, short professional training courses or copyright. Before starting the activity, contact the Secretariat responsible for managing your fellowship or the Human Resources Division at drh.bolsas@fct.unl.pt.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "EBI — art. 5.º, n.os 3 e 6; NOVA — art. 22.º, n.os 2 e 3; FCT — art. 16.º"
+  },
+  {
+   "id": "EXC-008",
+   "tema": "Exclusividade",
+   "subtema": "Autorização prévia",
+   "pt": {
+    "q": "Preciso de autorização para exercer uma atividade pontual remunerada?",
+    "f": [
+     "Tenho de avisar antes de aceitar um trabalho pontual?"
+    ],
+    "r": "Antes de iniciar uma atividade pontual remunerada, contacte o Secretariado responsável pela gestão da sua bolsa e apresente informação ou documentação que permita identificar a atividade. Será verificado se a situação é compatível com o regime de exclusividade, com o plano de trabalhos e com o regulamento aplicável.",
+    "t": []
+   },
+   "en": {
+    "q": "Do I need authorisation to carry out occasional paid work?",
+    "f": [
+     "Do I have to let anyone know before accepting occasional paid work?"
+    ],
+    "r": "Before starting occasional paid work, contact the Secretariat responsible for managing your fellowship and provide information or documentation identifying the activity. Its compatibility with exclusive dedication, the work plan and the applicable regulations will then be assessed.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [
+    "EXC-007"
+   ],
+   "referencia": "EBI — art. 5.º; NOVA — art. 22.º, n.º 5; FCT — art. 16.º, n.º 4"
+  },
+  {
+   "id": "FIN-011",
+   "tema": "Pagamentos",
+   "subtema": "Subsídio de alimentação",
+   "pt": {
+    "q": "A bolsa inclui subsídio de alimentação?",
+    "f": [
+     "Tenho direito a subsídio de refeição?",
+     "A bolsa paga subsídio de alimentação?"
+    ],
+    "r": "Não. A bolsa não inclui subsídio de alimentação.",
+    "t": []
+   },
+   "en": {
+    "q": "Does the fellowship include a meal allowance?",
+    "f": [
+     "Am I entitled to a meal allowance?"
+    ],
+    "r": "No. The fellowship does not include a meal allowance.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [
+    "FIN-010"
+   ],
+   "referencia": "NOVA — art. 25.º, n.º 11; FCT — art. 18.º, n.º 15"
+  },
+  {
+   "id": "SSV-007",
+   "tema": "Seguro Social Voluntário",
+   "subtema": "Proteção social e carreira contributiva",
+   "pt": {
+    "q": "O tempo de bolsa conta para a Segurança Social se eu descontar pelo SSV?",
+    "f": [
+     "Os descontos do SSV contam para a reforma?",
+     "O SSV conta para a minha carreira contributiva?"
+    ],
+    "r": "Se aderir ao SSV e efetuar as respetivas contribuições, essas contribuições relevam no âmbito da proteção social, incluindo para as eventualidades cobertas pelo regime, como velhice. Para efeitos concretos na sua carreira contributiva, confirme junto da Segurança Social.",
+    "t": []
+   },
+   "en": {
+    "q": "Does fellowship time count for Social Security if I contribute through SSV?",
+    "f": [
+     "Do SSV contributions count towards retirement?",
+     "Does SSV count towards my contribution record?"
+    ],
+    "r": "If you join Voluntary Social Insurance (SSV) and make the relevant contributions, those contributions count for social protection purposes, including for the contingencies covered by the scheme, such as old age. For the specific effects on your contribution record, check with Social Security.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "EBI — art. 10.º; regime do SSV"
+  },
+  {
+   "id": "SSV-008",
+   "tema": "Seguro Social Voluntário",
+   "subtema": "Não adesão ao SSV",
+   "pt": {
+    "q": "Se eu não aderir ao SSV, perco algum direito da bolsa?",
+    "f": [
+     "Sou obrigado a aderir ao SSV para manter a bolsa?"
+    ],
+    "r": "Não. A adesão ao SSV é opcional e a não adesão não afeta a manutenção da bolsa de investigação.",
+    "t": []
+   },
+   "en": {
+    "q": "If I do not join SSV, do I lose any fellowship rights?",
+    "f": [
+     "Do I have to join SSV to keep my fellowship?"
+    ],
+    "r": "No. Joining Voluntary Social Insurance (SSV) is optional, and not joining does not affect the continuation of the research fellowship.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "EBI — art. 10.º"
+  },
+  {
+   "id": "SSV-009",
+   "tema": "Seguro Social Voluntário",
+   "subtema": "Documento para adesão",
+   "pt": {
+    "q": "Que documento posso apresentar para aderir ao SSV?",
+    "f": [
+     "O contrato de bolsa serve para aderir ao SSV?",
+     "Posso usar uma declaração de bolseiro?"
+    ],
+    "r": "Pode apresentar o contrato de bolsa para efeitos de inscrição no Seguro Social Voluntário. Se a Segurança Social solicitar uma declaração comprovativa do estatuto de bolseiro, contacte a Divisão de Recursos Humanos através de drh.bolsas@fct.unl.pt para a sua emissão.",
+    "t": []
+   },
+   "en": {
+    "q": "What document can I use to join SSV?",
+    "f": [
+     "Can I use my fellowship contract to join SSV?",
+     "Can I use a fellow status declaration?"
+    ],
+    "r": "You may present your fellowship contract to register for Voluntary Social Insurance. If Social Security requests a declaration confirming your research fellow status, contact the Human Resources Division at drh.bolsas@fct.unl.pt to have it issued.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "Guia Prático ISS (C1, pp. 8–9); NOVA — arts. 4.º, n.º 4, e 20.º, n.º 2; prática operacional DRH"
+  },
+  {
+   "id": "SSV-010",
+   "tema": "Seguro Social Voluntário",
+   "subtema": "Pagamentos apresentados após termo",
+   "pt": {
+    "q": "Posso pedir o reembolso de contribuições do SSV depois de a bolsa terminar?",
+    "f": [
+     "Tenho comprovativos antigos do SSV; ainda posso pedir reembolso?",
+     "Paguei vários meses de SSV mas ainda não pedi o reembolso; ainda posso enviar os comprovativos?"
+    ],
+    "r": "Em regra, o reembolso do SSV é tratado mensalmente. Se pretender apresentar pagamentos relativos a períodos anteriores, nomeadamente já após o termo da bolsa, contacte o Secretariado responsável pela gestão da sua bolsa ou a Divisão de Recursos Humanos através do e-mail drh.bolsas@fct.unl.pt. Situações excecionais podem depender de autorização superior.",
+    "t": []
+   },
+   "en": {
+    "q": "Can I request reimbursement of SSV contributions after my fellowship has ended?",
+    "f": [
+     "I have older SSV payment proofs; can I still request reimbursement?",
+     "I paid several months of SSV but have not yet requested reimbursement; can I still send the proofs?"
+    ],
+    "r": "As a rule, Voluntary Social Insurance (SSV) reimbursement is handled monthly. If you wish to submit payments relating to earlier periods, particularly after the fellowship has ended, contact the Secretariat responsible for managing your fellowship or the Human Resources Division at drh.bolsas@fct.unl.pt. Exceptional cases may require higher-level authorisation.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "Procedimento interno validado"
+  },
+  {
+   "id": "SSV-011",
+   "tema": "Seguro Social Voluntário",
+   "subtema": "Fim da bolsa",
+   "pt": {
+    "q": "O que acontece ao SSV quando a minha bolsa termina?",
+    "f": [
+     "O SSV termina com a bolsa?"
+    ],
+    "r": "O enquadramento no Seguro Social Voluntário cessa a pedido do interessado, quando passe a estar abrangido por um regime obrigatório de proteção social ou quando não pague as contribuições durante mais de um ano. Se não pretender manter o SSV após o fim da bolsa, peça a cessação à Segurança Social.",
+    "t": []
+   },
+   "en": {
+    "q": "What happens to SSV when my fellowship ends?",
+    "f": [
+     "Does SSV end with the fellowship?"
+    ],
+    "r": "Enrolment in Voluntary Social Insurance (SSV) ends at your request, when you become covered by a mandatory social protection scheme, or when you do not pay contributions for more than one year. If you do not wish to keep SSV after your fellowship ends, request termination from Social Security.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "Guia Prático ISS (D2, p. 18)"
+  },
+  {
+   "id": "PRO-009",
+   "tema": "Seguro de acidentes pessoais",
+   "subtema": "Comunicação de acidente",
+   "pt": {
+    "q": "O que devo fazer se tiver um acidente durante a bolsa?",
+    "f": [
+     "Tive um acidente no laboratório; a quem comunico?",
+     "Tenho um comprovativo médico, para onde envio?"
+    ],
+    "r": "Comunique o acidente de imediato à Divisão de Recursos Humanos, através do e-mail drh.bolsas@fct.unl.pt, e ao Secretariado responsável pela gestão da sua bolsa. Se tiver documentação do atendimento médico ou outro comprovativo relacionado com o acidente, envie-a também para permitir a avaliação da situação e a indicação dos passos seguintes.",
+    "t": []
+   },
+   "en": {
+    "q": "What should I do if I have an accident during my fellowship?",
+    "f": [
+     "I had an accident in the lab; who should I notify?",
+     "I have medical documentation; where should I send it?"
+    ],
+    "r": "Report the accident immediately to the Human Resources Division at drh.bolsas@fct.unl.pt and to the Secretariat responsible for managing your fellowship. If you have medical documentation or other evidence relating to the accident, send it as well so the situation can be assessed and the next steps indicated.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "EBI — art. 9.º, n.º 1, al. e); procedimento interno"
+  },
+  {
+   "id": "PRO-010",
+   "tema": "Seguro de acidentes pessoais",
+   "subtema": "Período no estrangeiro",
+   "pt": {
+    "q": "Se eu estiver no estrangeiro durante parte da bolsa, tenho de comunicar?",
+    "f": [
+     "Posso ir trabalhar para o estrangeiro durante a bolsa?",
+     "Tenho de avisar a DRH antes de viajar?",
+     "Vou participar numa conferência no estrangeiro; preciso avisar alguém por causa do seguro?"
+    ],
+    "r": "Sim. Um período de trabalho no estrangeiro deve estar previamente previsto ou devidamente enquadrado no plano de trabalhos e acordado com o orientador e a unidade responsável. Antes da deslocação, contacte o Secretariado responsável pela gestão da sua bolsa e assegure que a Divisão de Recursos Humanos é informada através do e-mail drh.bolsas@fct.unl.pt, nomeadamente para verificação das condições do seguro de acidentes pessoais.",
+    "t": []
+   },
+   "en": {
+    "q": "If I spend part of my fellowship abroad, do I have to notify anyone?",
+    "f": [
+     "Can I work abroad during my fellowship?",
+     "Do I have to notify HR before travelling?",
+     "I am going to a conference abroad; do I need to notify anyone because of the insurance?"
+    ],
+    "r": "Yes. A period of work abroad must be provided for in advance or properly covered by the work plan and agreed with the supervisor and the responsible unit. Before travelling, contact the Secretariat responsible for managing your fellowship and ensure that the Human Resources Division is informed at drh.bolsas@fct.unl.pt, particularly so that personal accident insurance conditions can be checked.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "NOVA — art. 5.º, n.º 3; FCT — art. 6.º, n.os 7 e 8; EBI — art. 9.º, n.º 1, al. e)"
+  },
+  {
+   "id": "DIR-007",
+   "tema": "Direitos durante a bolsa",
+   "subtema": "Descanso em contrato curto",
+   "pt": {
+    "q": "Se o meu contrato durar menos de um ano, como são definidos os dias de descanso?",
+    "f": [
+     "Tenho uma bolsa de seis meses; quantos dias de descanso tenho?"
+    ],
+    "r": "O EBI prevê até 22 dias úteis de descanso por ano civil. Para um contrato de duração inferior a um ano, a organização do período de descanso deve ser acordada com o orientador.",
+    "t": []
+   },
+   "en": {
+    "q": "If my contract lasts less than one year, how are rest days determined?",
+    "f": [
+     "I have a six-month fellowship; how many rest days do I have?"
+    ],
+    "r": "The Research Fellow Statute (EBI) provides for up to 22 working days of rest per calendar year. For a contract lasting less than one year, the rest period should be agreed with the supervisor.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "EBI — art. 9.º, n.º 1, al. h)"
+  },
+  {
+   "id": "DIR-008",
+   "tema": "Direitos durante a bolsa",
+   "subtema": "Férias laborais",
+   "pt": {
+    "q": "A bolsa dá direito a férias pagas como num contrato de trabalho?",
+    "f": [
+     "Tenho férias pagas?",
+     "Bolseiro tem férias?",
+     "Posso tirar férias?",
+     "Posso marcar férias durante a bolsa?"
+    ],
+    "r": "Não. O contrato de bolsa não é um contrato de trabalho, pelo que não há férias pagas nos termos do Código do Trabalho. Existe, contudo, o período de descanso previsto no EBI, até 22 dias úteis por ano civil, a acordar com o orientador.",
+    "t": []
+   },
+   "en": {
+    "q": "Does the fellowship provide paid holidays like an employment contract?",
+    "f": [
+     "Do I have paid holidays?",
+     "Do research fellows have holidays?",
+     "Can I take holidays?",
+     "Can I take time off during the fellowship?"
+    ],
+    "r": "No. The fellowship contract is not an employment contract, so there is no paid holiday under the Labour Code. There is, however, the rest period provided for in the Research Fellow Statute (EBI), of up to 22 working days per calendar year, to be agreed with your supervisor.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "EBI — arts. 1.º e 9.º"
+  },
+  {
+   "id": "SUS-007",
+   "tema": "Suspensão",
+   "subtema": "Doença",
+   "pt": {
+    "q": "O que acontece à minha bolsa se eu ficar de baixa médica?",
+    "f": [
+     "Fiquei doente; o que faço com a bolsa?",
+     "Tenho um atestado médico, para onde envio?",
+     "O meu projeto termina enquanto estiver de baixa; vou recuperar depois os dias?"
+    ],
+    "r": "Apresente o comprovativo médico à Divisão de Recursos Humanos através do e-mail drh.bolsas@fct.unl.pt. A situação será analisada e serão indicados os procedimentos aplicáveis à suspensão e ao eventual regresso à bolsa.",
+    "t": []
+   },
+   "en": {
+    "q": "What happens to my fellowship if I go on medical leave?",
+    "f": [
+     "I am ill; what should I do about my fellowship?",
+     "I have a medical certificate; where should I send it?",
+     "My project ends while I am on medical leave; will I get those days back later?"
+    ],
+    "r": "Submit the medical evidence to the Human Resources Division at drh.bolsas@fct.unl.pt. The situation will be assessed and you will be informed of the procedures applicable to suspension and any return to the fellowship.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "EBI — art. 9.º, n.º 1; NOVA — art. 26.º"
+  },
+  {
+   "id": "SUS-008",
+   "tema": "Suspensão",
+   "subtema": "Motivos pessoais",
+   "pt": {
+    "q": "Se eu precisar de interromper a bolsa por um motivo pessoal, como faço?",
+    "f": [
+     "Preciso suspender temporariamente a bolsa; quem devo contactar?"
+    ],
+    "r": "Contacte o Secretariado responsável pela gestão da sua bolsa e explique a situação para que possa ser verificado o enquadramento aplicável.",
+    "t": []
+   },
+   "en": {
+    "q": "If I need to interrupt my fellowship for personal reasons, what should I do?",
+    "f": [
+     "I need to suspend my fellowship temporarily; who should I contact?"
+    ],
+    "r": "Contact the Secretariat responsible for managing your fellowship and explain the situation so that the applicable framework can be assessed.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "EBI — art. 9.º, n.º 1; NOVA — art. 26.º; FCT — art. 23.º"
+  },
+  {
+   "id": "SUS-009",
+   "tema": "Suspensão",
+   "subtema": "Exemplos de suspensão",
+   "pt": {
+    "q": "Em que situações a bolsa pode ser suspensa?",
+    "f": [
+     "Que motivos podem levar à suspensão da bolsa?"
+    ],
+    "r": "A bolsa pode ser suspensa em determinadas situações, por exemplo por doença, parentalidade ou exercício temporário de uma função ou atividade remunerada incompatível com a dedicação exclusiva. O enquadramento depende do motivo concreto. Contacte a Divisão de Recursos Humanos através do e-mail drh.bolsas@fct.unl.pt para indicar a sua situação e receber informação sobre o procedimento aplicável.",
+    "t": []
+   },
+   "en": {
+    "q": "In what situations can the fellowship be suspended?",
+    "f": [
+     "What reasons may lead to suspension of the fellowship?"
+    ],
+    "r": "The fellowship may be suspended in certain situations, for example due to illness, parenthood, or the temporary exercise of a paid role or activity incompatible with exclusive dedication. The applicable framework depends on the specific reason. Contact the Human Resources Division at drh.bolsas@fct.unl.pt to explain your situation and receive information on the applicable procedure.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "EBI — art. 9.º, n.º 1, als. f), g) e j); NOVA — art. 26.º; FCT — art. 23.º"
+  },
+  {
+   "id": "SUS-010",
+   "tema": "Suspensão",
+   "subtema": "Parentalidade",
+   "pt": {
+    "q": "Tenho acesso a proteção na parentalidade durante a bolsa?",
+    "f": [
+     "O que acontece à bolsa durante a licença parental?",
+     "Continuo a receber a bolsa?"
+    ],
+    "r": "Sim. Tem direito a suspender as atividades da bolsa por motivo de parentalidade. Se tiver aderido ao Seguro Social Voluntário, pode ter direito às prestações de parentalidade da Segurança Social. Para saber se o subsídio da bolsa se mantém durante a suspensão, contacte o Secretariado responsável pela gestão da sua bolsa.",
+    "t": []
+   },
+   "en": {
+    "q": "Am I entitled to parental protection during my fellowship?",
+    "f": [
+     "What happens to my fellowship during parental leave?",
+     "Do I continue receiving the fellowship?"
+    ],
+    "r": "Yes. You are entitled to suspend the fellowship activities for parenthood reasons. If you have joined Voluntary Social Insurance, you may be entitled to Social Security parental benefits. To find out whether the fellowship allowance continues during suspension, contact the Secretariat responsible for managing your fellowship.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [
+    "SUS-004",
+    "SSV-005"
+   ],
+   "referencia": "EBI — art. 9.º, n.º 1, al. f); NOVA — art. 26.º, n.º 1, al. a); FCT — art. 23.º"
+  },
+  {
+   "id": "FIM-007",
+   "tema": "Relatório final e cessação",
+   "subtema": "Cessação por iniciativa do bolseiro",
+   "pt": {
+    "q": "Posso terminar a minha bolsa antes da data prevista no contrato?",
+    "f": [
+     "Quero sair antes do fim; como faço?",
+     "Posso cessar a bolsa antecipadamente?",
+     "Quero desistir da bolsa, posso?",
+     "Quero sair antes do fim do contrato",
+     "Posso rescindir a bolsa?"
+    ],
+    "r": "Sim. Deve comunicar expressamente e por escrito ao Secretariado responsável pela gestão da sua bolsa e articular a situação com o orientador.",
+    "t": []
+   },
+   "en": {
+    "q": "Can I end my fellowship before the contract end date?",
+    "f": [
+     "I want to leave before the end; what should I do?",
+     "Can I end the fellowship early?",
+     "I want to leave the fellowship; can I?",
+     "Can I terminate my fellowship?"
+    ],
+    "r": "Yes. You must notify the Secretariat responsible for managing your fellowship expressly and in writing and coordinate the situation with your supervisor.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [
+    "FIM-001",
+    "FIM-002"
+   ],
+   "referencia": "EBI — art. 17.º"
+  },
+  {
+   "id": "FIM-009",
+   "tema": "Relatório final e cessação",
+   "subtema": "Parecer do orientador",
+   "pt": {
+    "q": "Quem deve validar o relatório final da minha bolsa?",
+    "f": [
+     "O orientador tem de dar parecer sobre o relatório final?"
+    ],
+    "r": "O relatório final deve ser acompanhado pelo parecer do orientador científico.",
+    "t": []
+   },
+   "en": {
+    "q": "Who must validate my final fellowship report?",
+    "f": [
+     "Does my supervisor have to provide an opinion on the final report?"
+    ],
+    "r": "The final report must be accompanied by the scientific supervisor's opinion.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "NOVA — art. 32.º, n.º 1; FCT — art. 24.º, n.º 1"
+  },
+  {
+   "id": "FIM-010",
+   "tema": "Relatório final e cessação",
+   "subtema": "Minuta",
+   "pt": {
+    "q": "Existe uma minuta para o relatório final?",
+    "f": [
+     "Onde encontro o modelo do relatório final?",
+     "O relatório tem formato próprio?"
+    ],
+    "r": "Sim. Existe uma minuta bilingue, em português e inglês. Solicite-a ao Secretariado responsável pela gestão da sua bolsa.",
+    "t": []
+   },
+   "en": {
+    "q": "Is there a template for the final report?",
+    "f": [
+     "Where can I find the final report template?",
+     "Is there a specific format for the report?"
+    ],
+    "r": "Yes. A bilingual Portuguese-English template is available. Request it from the Secretariat responsible for managing your fellowship.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "Minuta institucional validada"
+  },
+  {
+   "id": "REN-008",
+   "tema": "Renovação",
+   "subtema": "Prorrogação",
+   "pt": {
+    "q": "Posso pedir a prorrogação da bolsa quando ela está a terminar?",
+    "f": [
+     "Posso pedir mais tempo de bolsa?"
+    ],
+    "r": "Pode solicitar que a situação seja avaliada, mas isso não significa que a prorrogação possa ser concedida. Contacte o Secretariado responsável pela gestão da sua bolsa ou a Divisão de Recursos Humanos através do e-mail drh.bolsas@fct.unl.pt para verificar o enquadramento aplicável à sua bolsa.",
+    "t": []
+   },
+   "en": {
+    "q": "Can I request an extension when my fellowship is ending?",
+    "f": [
+     "Can I request more fellowship time?"
+    ],
+    "r": "You may ask for the situation to be assessed, but this does not mean that an extension can be granted. Contact the Secretariat responsible for managing your fellowship or the Human Resources Division at drh.bolsas@fct.unl.pt to check the framework applicable to your fellowship.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [
+    "REN-001",
+    "REN-003"
+   ],
+   "referencia": "NOVA — arts. 19.º e 23.º, n.º 3; FCT — arts. 15.º e 17.º"
+  },
+  {
+   "id": "ADM-001",
+   "tema": "Gestão administrativa",
+   "subtema": "Alteração de dados",
+   "pt": {
+    "q": "Tenho de informar se mudar de morada, contacto ou IBAN?",
+    "f": [
+     "Mudei de IBAN; quem aviso?",
+     "Mudei de morada ou e-mail; como atualizo?"
+    ],
+    "r": "Sim. Comunique a alteração ao Secretariado responsável pela gestão da sua bolsa ou à Divisão de Recursos Humanos através do e-mail drh.bolsas@fct.unl.pt.",
+    "t": []
+   },
+   "en": {
+    "q": "Do I need to notify changes to my address, contact details or IBAN?",
+    "f": [
+     "I changed my IBAN; who should I notify?",
+     "I changed my address or email; how do I update it?"
+    ],
+    "r": "Yes. Report the change to the Secretariat responsible for managing your fellowship or to the Human Resources Division at drh.bolsas@fct.unl.pt.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "Procedimento interno"
+  },
+  {
+   "id": "ADM-002",
+   "tema": "Gestão administrativa",
+   "subtema": "Correção/substituição de documentos",
+   "pt": {
+    "q": "Preciso de corrigir ou substituir um documento que já entreguei. O que devo fazer?",
+    "f": [
+     "Posso atualizar um documento da bolsa?"
+    ],
+    "r": "Depende do documento. Alterações de dados administrativos, como morada, contactos ou IBAN, podem ser comunicadas ao Secretariado responsável pela gestão da sua bolsa ou à Divisão de Recursos Humanos através do e-mail drh.bolsas@fct.unl.pt. Se a alteração envolver o contrato, o aviso de abertura ou o plano de trabalhos, contacte uma dessas unidades para que a situação seja analisada antes de qualquer alteração.",
+    "t": []
+   },
+   "en": {
+    "q": "I need to correct or replace a document I already submitted. What should I do?",
+    "f": [
+     "Can I update a fellowship document?"
+    ],
+    "r": "It depends on the document. Changes to administrative data, such as address, contact details or IBAN, may be reported to the Secretariat responsible for managing your fellowship or the Human Resources Division at drh.bolsas@fct.unl.pt. If the change concerns the contract, the Call for Applications or the work plan, contact one of those units so the situation can be assessed before any change is made.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "Procedimento interno + regulamento aplicável"
+  },
+  {
+   "id": "APO-001",
+   "tema": "Apoio e contactos",
+   "subtema": "Ponto de contacto",
+   "pt": {
+    "q": "Quem é o meu ponto de contacto para assuntos da bolsa?",
+    "f": [
+     "Com quem falo sobre a gestão da minha bolsa?"
+    ],
+    "r": "O primeiro ponto de contacto é o Secretariado responsável pela gestão da sua bolsa. Para questões que devam ser tratadas pela Divisão de Recursos Humanos, contacte drh.bolsas@fct.unl.pt.",
+    "t": []
+   },
+   "en": {
+    "q": "Who is my contact point for fellowship matters?",
+    "f": [
+     "Who should I contact about managing my fellowship?"
+    ],
+    "r": "Your first point of contact is the Secretariat responsible for managing your fellowship. For matters that need to be handled by the Human Resources Division, contact drh.bolsas@fct.unl.pt.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "Procedimento interno"
+  },
+  {
+   "id": "APO-002",
+   "tema": "Apoio e contactos",
+   "subtema": "Dúvida não coberta",
+   "pt": {
+    "q": "Se não encontrar resposta à minha dúvida, o que devo fazer?",
+    "f": [
+     "Não encontrei resposta para o meu caso; quem contacto?"
+    ],
+    "r": "Contacte o Secretariado responsável pela gestão da sua bolsa ou a Divisão de Recursos Humanos através do e-mail drh.bolsas@fct.unl.pt.",
+    "t": []
+   },
+   "en": {
+    "q": "If I cannot find an answer to my question, what should I do?",
+    "f": [
+     "I could not find an answer for my situation; who should I contact?"
+    ],
+    "r": "Contact the Secretariat responsible for managing your fellowship or the Human Resources Division at drh.bolsas@fct.unl.pt.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "Procedimento interno"
+  },
+  {
+   "id": "APO-003",
+   "tema": "Contratação",
+   "subtema": "Esclarecimentos sobre o contrato",
+   "pt": {
+    "q": "Onde posso esclarecer uma questão sobre o contrato da bolsa?",
+    "f": [],
+    "r": "Pode contactar o Secretariado responsável pela gestão da sua bolsa ou a Divisão de Recursos Humanos.",
+    "t": [
+     "contrato",
+     "dúvida",
+     "questão",
+     "esclarecer",
+     "secretariado",
+     "DRH"
+    ]
+   },
+   "en": {
+    "q": "Where can I clarify a question about my fellowship contract?",
+    "f": [
+     "I have a question about my fellowship contract; who should I contact?",
+     "Who can clarify a question about my fellowship contract?"
+    ],
+    "r": "You may contact the Secretariat responsible for managing your fellowship or the Human Resources Division.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "Procedimento interno"
+  },
+  {
+   "id": "APO-004",
+   "tema": "Apoio e contactos",
+   "subtema": "Pagamentos",
+   "pt": {
+    "q": "Tenho uma dúvida sobre um pagamento ou atraso. Quem devo contactar?",
+    "f": [
+     "A bolsa não foi paga; com quem falo?",
+     "Tenho dúvida sobre o valor recebido."
+    ],
+    "r": "Contacte a Divisão de Recursos Humanos através do e-mail drh.bolsas@fct.unl.pt.",
+    "t": []
+   },
+   "en": {
+    "q": "I have a question about a payment or delay. Who should I contact?",
+    "f": [
+     "My fellowship was not paid; who should I contact?",
+     "I have a question about the amount received."
+    ],
+    "r": "Contact the Human Resources Division at drh.bolsas@fct.unl.pt.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "Procedimento interno"
+  },
+  {
+   "id": "DOC-001",
+   "tema": "Declarações e documentos",
+   "subtema": "Declaração de bolseiro",
+   "pt": {
+    "q": "Posso pedir uma declaração comprovativa da minha bolsa?",
+    "f": [
+     "Preciso de uma declaração de que sou bolseiro.",
+     "Posso pedir uma declaração depois de a bolsa terminar?"
+    ],
+    "r": "Sim. A Divisão de Recursos Humanos pode emitir uma declaração comprovativa da condição de bolseiro ou do período em que beneficiou da bolsa. O pedido pode ser enviado diretamente para drh.bolsas@fct.unl.pt.",
+    "t": []
+   },
+   "en": {
+    "q": "Can I request a declaration confirming my fellowship?",
+    "f": [
+     "I need a declaration stating that I am a fellow.",
+     "Can I request a declaration after the fellowship ends?"
+    ],
+    "r": "Yes. The Human Resources Division can issue a declaration confirming your status as a fellow or the period during which you held the fellowship. The request may be sent directly to drh.bolsas@fct.unl.pt.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "EBI — art. 7.º, n.º 5; NOVA — arts. 4.º, n.º 4, e 20.º, n.º 2"
+  },
+  {
+   "id": "DOC-002",
+   "tema": "Declarações e documentos",
+   "subtema": "Exemplar do contrato",
+   "pt": {
+    "q": "Posso pedir uma cópia do meu contrato depois de assinado?",
+    "f": [
+     "Não recebi o meu contrato; o que faço?",
+     "Perdi a minha cópia do contrato de bolsa; onde posso pedir outra?"
+    ],
+    "r": "O bolseiro ou a bolseira recebe um exemplar original do contrato de bolsa. Caso não o tenha recebido, deve contactar a Divisão de Recursos Humanos através do e-mail drh.bolsas@fct.unl.pt.",
+    "t": []
+   },
+   "en": {
+    "q": "Can I request a copy of my contract after it has been signed?",
+    "f": [
+     "I did not receive my contract; what should I do?",
+     "I have lost my copy of the fellowship contract; where can I request another one?"
+    ],
+    "r": "The fellow receives an original copy of the fellowship contract. If you have not received it, contact the Human Resources Division at drh.bolsas@fct.unl.pt.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "Minuta NOVA — cl. 13.ª"
+  },
+  {
+   "id": "REG-004",
+   "tema": "Enquadramento e regime",
+   "subtema": "Tempo de serviço",
+   "pt": {
+    "q": "O tempo de bolsa conta como tempo de serviço para efeitos de carreira ou antiguidade?",
+    "f": [
+     "A bolsa conta para a minha antiguidade profissional?",
+     "Conta como tempo de serviço?"
+    ],
+    "r": "Em regra, não, porque a bolsa não é uma relação de trabalho. Se for titular de um vínculo jurídico-laboral, tem direito a que o tempo de bolsa seja contado, para todos os efeitos legais, como tempo de serviço efetivo. A carreira contributiva na Segurança Social é uma questão distinta, que depende das contribuições para o SSV.",
+    "t": []
+   },
+   "en": {
+    "q": "Does fellowship time count as service time for career or seniority purposes?",
+    "f": [
+     "Does the fellowship count towards professional seniority?",
+     "Does it count as service time?"
+    ],
+    "r": "As a rule, no, because the fellowship is not an employment relationship. If you hold an employment relationship, you are entitled to have your fellowship period counted, for all legal purposes, as effective service time. Your Social Security contribution record is a separate matter, which depends on your Voluntary Social Insurance (SSV) contributions.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "EBI — arts. 4.º e 9.º, n.º 2"
+  },
+  {
+   "id": "EXE-008",
+   "tema": "Execução da bolsa",
+   "subtema": "Questões sobre orientação",
+   "pt": {
+    "q": "Se eu tiver uma questão sobre o meu orientador durante a bolsa, com quem devo falar?",
+    "f": [
+     "Tenho um problema/dúvida com a orientação; quem contacto?"
+    ],
+    "r": "Contacte o Secretariado responsável pela gestão da sua bolsa ou a Divisão de Recursos Humanos através do e-mail drh.bolsas@fct.unl.pt.",
+    "t": []
+   },
+   "en": {
+    "q": "If I have an issue concerning my supervisor during the fellowship, who should I contact?",
+    "f": [
+     "I have a problem/question about supervision; who should I contact?"
+    ],
+    "r": "Contact the Secretariat responsible for managing your fellowship or the Human Resources Division at drh.bolsas@fct.unl.pt.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "Procedimento interno"
+  },
+  {
+   "id": "TIP-009",
+   "tema": "Tipologias e duração",
+   "subtema": "Nova bolsa após termo",
+   "pt": {
+    "q": "A minha bolsa está a terminar. Posso ter outra bolsa de investigação?",
+    "f": [
+     "Posso ter outra bolsa depois desta?",
+     "Quando esta bolsa acabar posso ter uma nova?",
+     "Posso candidatar-me a outra bolsa quando esta terminar?"
+    ],
+    "r": "Depende da tipologia da sua bolsa e do tempo dessa tipologia de que já beneficiou. Na BII, aplica-se o limite acumulado de 12 meses. Na BI, deve ser considerada a situação académica e os respetivos limites acumulados; nos cursos não conferentes de grau, cada contrato pode ter no máximo 12 meses e o limite acumulado pode atingir 24 meses mediante novo concurso e novo contrato. Na BIPD, terminado o contrato, não pode ser celebrado novo contrato de bolsa com a NOVA (regime NOVA) ou com a mesma entidade de acolhimento (regime FCT).",
+    "t": []
+   },
+   "en": {
+    "q": "My fellowship is ending soon. Can I hold another research fellowship?",
+    "f": [
+     "Can I have another fellowship after this one?",
+     "Can I apply for another fellowship when this one ends?"
+    ],
+    "r": "It depends on your fellowship type and how much time you have already used under that type. For BII, the cumulative limit is 12 months. For BI, your academic situation and the applicable cumulative limits must be considered; for non-degree courses, each contract may last no more than 12 months and the cumulative limit may reach 24 months through a new call for applications and a new contract. For BIPD, once the contract has ended, no new fellowship contract may be concluded with NOVA (NOVA regime) or with the same host institution (FCT regime).",
+    "t": [
+     "ends",
+     "after",
+     "another",
+     "new"
+    ]
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "NOVA — arts. 6.º a 8.º; FCT — arts. 5.º a 7.º; EBI — art. 3.º"
+  },
+  {
+   "id": "SSV-012",
+   "tema": "Seguro Social Voluntário",
+   "subtema": "Adesão após início da bolsa",
+   "pt": {
+    "q": "Comecei a receber a bolsa, mas ainda não aderi ao SSV. Posso aderir agora?",
+    "f": [
+     "Já comecei a bolsa; ainda posso aderir ao SSV?",
+     "Não aderi ao SSV no início; posso fazê-lo depois?"
+    ],
+    "r": "Sim, pode aderir em qualquer momento, desde que não esteja enquadrado noutro regime de proteção social obrigatório. A inscrição é feita por si nos serviços da Segurança Social. Depois de aderir, comunique a adesão ao Secretariado responsável pela gestão da sua bolsa, para efeitos de reembolso. A data a partir da qual a inscrição produz efeitos é definida pela Segurança Social.",
+    "t": []
+   },
+   "en": {
+    "q": "I have already started receiving my fellowship but have not joined SSV yet. Can I join now?",
+    "f": [
+     "My fellowship has already started; can I still join SSV?",
+     "I did not join SSV at the beginning; can I do it later?"
+    ],
+    "r": "Yes, you may join at any time, provided you are not covered by another mandatory social protection scheme. You register yourself with Social Security. After joining, inform the Secretariat responsible for managing your fellowship, for reimbursement purposes. The date from which your registration takes effect is set by Social Security.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "EBI — art. 10.º; NOVA — art. 28.º; legislação da Segurança Social aplicável"
+  },
+  {
+   "id": "TIP-010",
+   "tema": "Tipologias e duração",
+   "subtema": "Candidatura a nova bolsa durante bolsa em vigor",
+   "pt": {
+    "q": "Posso candidatar-me a outra bolsa enquanto a minha bolsa atual ainda está em vigor?",
+    "f": [
+     "Encontrei outro concurso e ainda sou bolseiro; posso concorrer?",
+     "Posso apresentar candidatura antes de esta bolsa terminar?",
+     "Ter uma bolsa em vigor impede-me de concorrer a outra?"
+    ],
+    "r": "Sim. Ter uma bolsa em vigor não impede, por si só, a apresentação de uma candidatura a outro concurso. A candidatura não é o mesmo que beneficiar simultaneamente de duas bolsas. Se for selecionado, a possibilidade de beneficiar da nova bolsa terá de ser verificada de acordo com a respetiva tipologia, os limites aplicáveis e as condições do novo concurso.",
+    "t": []
+   },
+   "en": {
+    "q": "Can I apply for another fellowship while my current fellowship is still active?",
+    "f": [
+     "I found another call while I am still a fellow; can I apply?",
+     "Can I submit an application before my current fellowship ends?",
+     "Does holding a current fellowship prevent me from applying for another one?"
+    ],
+    "r": "Yes. Holding a current fellowship does not, by itself, prevent you from applying to another call for applications. Applying is not the same as receiving two fellowships at the same time. If you are selected, your eligibility to hold the new fellowship must be checked according to its type, the applicable limits and the conditions of the new call.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "NOVA — arts. 6.º a 8.º e 22.º; FCT — arts. 5.º a 7.º e 16.º"
+  },
+  {
+   "id": "SSV-013",
+   "tema": "Seguro Social Voluntário",
+   "subtema": "Juros de mora por pagamento em atraso",
+   "pt": {
+    "q": "Paguei o SSV em atraso. Os juros de mora são reembolsados?",
+    "f": [
+     "Paguei juros por ter pago o SSV atrasado. Posso pedir o reembolso?",
+     "A bolsa reembolsa os juros de mora do SSV?",
+     "O reembolso inclui os juros que paguei à Segurança Social?"
+    ],
+    "r": "Não, salvo se o atraso for imputável à entidade financiadora. O reembolso do SSV abrange o valor da contribuição, tendo como referência o 1.º escalão contributivo, e não os juros de mora resultantes de atraso no pagamento. Se o atraso tiver sido causado pela entidade financiadora, esta assume as contribuições em atraso e os respetivos juros de mora; nesse caso, contacte o Secretariado responsável pela gestão da sua bolsa.",
+    "t": []
+   },
+   "en": {
+    "q": "I paid my SSV contributions late. Is the late-payment interest reimbursed?",
+    "f": [
+     "I paid late-payment interest on my SSV contributions. Can I claim it back?",
+     "Does the fellowship reimburse SSV late-payment interest?"
+    ],
+    "r": "No, unless the delay is attributable to the funding entity. Voluntary Social Insurance (SSV) reimbursement covers the contribution amount, based on the first contribution tier, and not late-payment interest. If the delay was caused by the funding entity, it bears the overdue contributions and the related interest; in that case, contact the Secretariat responsible for managing your fellowship.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "EBI — art. 10.º, n.º 5; validação operacional DRH (02/10/2026)"
+  },
+  {
+   "id": "REN-009",
+   "tema": "Renovação",
+   "subtema": "Pagamento após renovação",
+   "pt": {
+    "q": "A renovação da minha bolsa será paga no mesmo mês?",
+    "f": [
+     "A minha bolsa foi renovada. Quando recebo o subsídio?",
+     "A renovação ficou concluída depois do processamento dos vencimentos. Quando vou receber?",
+     "Se a renovação atrasar, perco o pagamento desse mês?",
+     "O pagamento da renovação fica para o mês seguinte?"
+    ],
+    "r": "Se a renovação da bolsa estiver concluída antes do processamento dos vencimentos do mês, o subsídio mensal é pago no dia 23. Se a renovação apenas ficar concluída depois desse processamento, o valor que não foi pago nesse mês será pago posteriormente, de forma acumulada com o subsídio mensal seguinte.",
+    "t": []
+   },
+   "en": {
+    "q": "Will my fellowship renewal be paid in the same month?",
+    "f": [
+     "My fellowship has been renewed. When will I receive the allowance?",
+     "The renewal was completed after payroll processing. When will I be paid?",
+     "If the renewal is delayed, will I lose that month's payment?",
+     "Will the renewal payment be made the following month?"
+    ],
+    "r": "If the fellowship renewal is completed before the monthly payroll is processed, the monthly fellowship allowance is paid on the 23rd. If the renewal is only completed after payroll has been processed, the amount not paid that month will be paid subsequently together with the following monthly fellowship allowance.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "Procedimento operacional NOVA FCT — validação DRH em 02/10/2026"
+  },
+  {
+   "id": "CON-001",
+   "tema": "Contratação",
+   "subtema": "Entrega de documentos",
+   "pt": {
+    "q": "Preciso de entregar um documento relacionado com o meu contrato de bolsa. Onde devo enviá-lo?",
+    "f": [],
+    "r": "Envie-o ao Secretariado responsável pela gestão da sua bolsa.",
+    "t": [
+     "contrato",
+     "documento",
+     "entregar",
+     "enviar",
+     "secretariado"
+    ]
+   },
+   "en": {
+    "q": "I need to submit a document related to my fellowship contract. Where should I send it?",
+    "f": [
+     "I have a document related to my fellowship contract; where should I send it?"
+    ],
+    "r": "Send it to the Secretariat responsible for managing your fellowship.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "Procedimento interno"
+  },
+  {
+   "id": "CON-002",
+   "tema": "Contratação",
+   "subtema": "Prazo da contratação",
+   "pt": {
+    "q": "Onde posso consultar o prazo da minha contratação?",
+    "f": [],
+    "r": "Consulte o Aviso de Abertura do Concurso ou o contrato de bolsa, onde consta o período aplicável à sua contratação.",
+    "t": [
+     "contratação",
+     "prazo",
+     "duração",
+     "aviso",
+     "contrato",
+     "período"
+    ]
+   },
+   "en": {
+    "q": "Where can I check the duration of my fellowship contract?",
+    "f": [
+     "Where can I check the period of my fellowship contract?",
+     "How long does my fellowship contract last?"
+    ],
+    "r": "Check the Call for Applications or your fellowship contract, where the period applicable to your contract is stated.",
+    "t": []
+   },
+   "ligacao": "",
+   "relacionadas": [],
+   "referencia": "Aviso de Abertura do Concurso / contrato de bolsa"
+  }
+ ]
+}
