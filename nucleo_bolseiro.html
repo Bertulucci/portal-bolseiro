@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="pt-PT"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Núcleo do Bolseiro | Portal do Bolseiro · NOVA FCT</title>
+<style>
+:root{--b:#0065BD;--b-d:#00478a;--b-l:#e8f1fa;--ink:#061632;--ink2:#03142d;--mut:#4a5a70;--line:#dfe6ee;--bg:#eef3f7;--panel:#f7f9fb}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:"Open Sans",Arial,Helvetica,sans-serif}
+a{color:var(--b)}a:hover{color:var(--b-d)}
+:focus-visible{outline:3px solid #7fb3e6;outline-offset:2px}
+.p{width:min(1040px,100%);margin:24px auto;background:var(--panel);box-shadow:0 10px 36px #10243e1c;display:flex;flex-direction:column;min-height:70vh}
+.top{display:flex;gap:18px;flex-wrap:wrap;padding:16px clamp(16px,4vw,32px);border-bottom:1px solid #e3e9f0;background:#fff;justify-content:space-between;align-items:center}
+.top a{font-size:14px;font-weight:600;text-decoration:none}
+.lang{display:flex;border:1px solid #c9d8ea;border-radius:6px;overflow:hidden}
+.lang button{border:0;background:#fff;color:var(--b);font:700 12px "Open Sans",Arial,sans-serif;padding:6px 11px;cursor:pointer}
+.lang button[aria-pressed="true"]{background:var(--b);color:#fff}
+
+
+.band{background:var(--b);color:#fff;padding:26px clamp(16px,5vw,56px);text-align:center}
+.band h1{margin:0;font-size:clamp(22px,3.2vw,28px);font-weight:800}
+.band .sub{margin:6px 0 0;font-size:15px;color:#d9e8f7}
+.c{padding:24px clamp(16px,4vw,32px) 36px;display:flex;flex-direction:column;gap:22px;flex:1}
+.sec h2{margin:0 0 10px;font-size:17px;font-weight:800;color:var(--ink2);padding-left:10px;border-left:3px solid var(--b)}
+.items{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:10px}
+.item{background:#fff;border:1px solid var(--line);border-radius:12px;padding:14px 18px;display:flex;gap:14px;align-items:center}
+.item svg{width:30px;height:30px;flex:none;stroke:var(--b);fill:none;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
+.item .tx{flex:1;min-width:0}
+.item .tt{margin:0;font-size:15.5px;font-weight:700;color:var(--ink2);line-height:1.35}
+.item .ds{margin:3px 0 0;font-size:13.5px;color:var(--mut);line-height:1.5}
+.btn{flex:none;text-decoration:none;font-size:13.5px;font-weight:700;border-radius:8px;padding:8px 14px;background:var(--b);color:#fff;white-space:nowrap}
+.btn:hover{background:var(--b-d);color:#fff}
+.btn.out{background:#fff;color:var(--b);border:1px solid var(--b)}
+.btn.out:hover{background:var(--b-l);color:var(--b)}
+.note{margin:0;font-size:13.5px;line-height:1.55;color:var(--mut);border-left:3px solid #c9d8ea;padding-left:12px}
+.footer{background:var(--b);color:#fff;padding:18px clamp(16px,4vw,32px);font-size:13px;line-height:1.6}.footer a{color:#fff}
+@media (max-width:620px){.p{margin:0}.item{flex-wrap:wrap;align-items:flex-start}.item .tx{flex:1 1 calc(100% - 50px)}.btn{margin-left:44px}}
+.intro{margin:0;background:#fff;border:1px solid var(--line);border-radius:12px;padding:16px 18px;font-size:15px;line-height:1.6;color:var(--ink)}
+.subh{margin:14px 0 8px;font-size:13px;font-weight:800;color:var(--mut);text-transform:uppercase;letter-spacing:.4px}
+.art{margin-top:8px}
+.art summary{cursor:pointer;color:var(--b);font-weight:700;font-size:13.5px;width:max-content;max-width:100%}
+.art summary:hover{color:var(--b-d)}
+.art-txt{margin-top:8px;padding:10px 14px;background:var(--panel);border-left:3px solid var(--b);border-radius:6px;font-size:13.5px;line-height:1.6;color:var(--ink)}
+.art-txt p{margin:0 0 6px}.art-txt p:last-child{margin:0}
+</style></head><body>
+<main class="p">
+  <nav class="top"><div><a href="index.html" data-en="← Fellowship Portal">← Portal do Bolseiro</a></div><div class="lang" role="group" aria-label="Idioma / Language"><button type="button" data-lang="pt" aria-pressed="true">PT</button><button type="button" data-lang="en" aria-pressed="false">EN</button></div></nav>
+  <section class="band"><h1 data-en="Research Fellow Support Unit">Núcleo do Bolseiro</h1><p class="sub" data-en="Monitoring and support for NOVA FCT research fellows.">Acompanhamento e apoio aos bolseiros de investigação da NOVA FCT.</p></section>
+  <section class="c">
+<section class="sec"><h2 data-en="Contacts">Contactos</h2><ul class="items">
+<li class="item"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="M3 7l9 6 9-6"/></svg><div class="tx"><p class="tt" data-en="Human Resources Division — Building I, Room 112">Divisão de Recursos Humanos — Edifício I, Sala 112</p><p class="ds" data-en="Monday to Friday, 9:30–16:30 · drh.bolsas@fct.unl.pt · +351 212 948 583, ext. 12116">Segunda a sexta-feira, 9h30–16h30 · drh.bolsas@fct.unl.pt · +351 212 948 583, ext. 12116</p></div><a class="btn" href="mailto:drh.bolsas@fct.unl.pt?subject=N%C3%BAcleo%20do%20Bolseiro%20-%20Bolsas%20de%20Investiga%C3%A7%C3%A3o%20%7C%20NOVA%20FCT"><span data-en="Send e-mail">Enviar e-mail</span></a></li>
+</ul></section>
+<section class="sec"><h2 data-en="Who to contact">Quem contactar</h2><ul class="items">
+<li class="item"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 21V5l8-2 8 2v16"/><path d="M9 21v-4h6v4M8 8h.01M12 8h.01M16 8h.01M8 12h.01M12 12h.01M16 12h.01"/></svg><div class="tx"><p class="tt" data-en="Department/Research Unit Secretariat responsible for managing the fellowship">Secretariado do Departamento/Unidade de Investigação responsável pela gestão da bolsa</p><p class="ds" data-en="Submitting documents and day-to-day requests related to your fellowship.">Entrega de documentos e pedidos do dia a dia da bolsa.</p></div></li>
+<li class="item"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="8" r="3.5"/><path d="M5 20c.8-4 3.6-6 7-6s6.2 2 7 6"/></svg><div class="tx"><p class="tt" data-en="Research Fellow Support Unit — Human Resources Division">Núcleo do Bolseiro — Divisão de Recursos Humanos</p><p class="ds" data-en="Questions about your statute, rights and duties; Voluntary Social Insurance; situations the Secretariat cannot resolve.">Dúvidas sobre o estatuto, direitos e deveres; seguro social voluntário; situações que o Secretariado não consiga resolver.</p></div></li>
+</ul></section>
+<section class="sec"><h2 data-en="Before you write">Antes de escrever</h2><ul class="items">
+<li class="item"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M9.6 9.4a2.5 2.5 0 1 1 3.4 2.3c-.7.3-1 .8-1 1.5v.6"/><path d="M12 17h.01"/></svg><div class="tx"><p class="tt" data-en="Check the FAQ">Consulte as FAQ</p><p class="ds" data-en="Many questions are answered straight away in the frequently asked questions, validated by the HR Division.">Muitas dúvidas têm resposta imediata nas perguntas frequentes, validadas pela DRH.</p></div><a class="btn out" href="esclarecimento_duvidas.html"><span data-en="Open FAQ">Abrir FAQ</span></a></li>
+<li class="item"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 4h10a4 4 0 0 1 4 4v12H9a4 4 0 0 0-4 4V4z"/><path d="M9 8h6M9 12h6"/></svg><div class="tx"><p class="tt" data-en="Just arrived? Start with the Research Fellow Guide">Acabou de chegar? Comece pelo Guia do Bolseiro</p><p class="ds" data-en="All the essential information for the start of your fellowship.">Toda a informação essencial para o início da sua bolsa.</p></div><a class="btn out" href="https://bertulucci.github.io/guia-bolseiro/" target="_blank" rel="noopener"><span data-en="Open Guide ↗">Abrir Guia ↗</span></a></li>
+</ul></section>
+<section class="sec"><h2 data-en="How we can support you">Como o podemos apoiar</h2><ul class="items">
+<li class="item"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M9.6 9.4a2.5 2.5 0 1 1 3.4 2.3c-.7.3-1 .8-1 1.5v.6"/><path d="M12 17h.01"/></svg><div class="tx"><p class="tt" data-en="Rights and duties">Direitos e deveres</p><p class="ds" data-en="Clarification on the Estatuto do Bolseiro de Investigação and the regulation applicable to your fellowship.">Esclarecimentos sobre o Estatuto do Bolseiro de Investigação e o regulamento aplicável à sua bolsa.</p></div></li>
+<li class="item"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 6h12M8 12h12M8 18h12"/><path d="M4 6h.01M4 12h.01M4 18h.01"/></svg><div class="tx"><p class="tt" data-en="Procedures">Procedimentos</p><p class="ds" data-en="Guidance on the renewal, suspension and termination of your fellowship and on Voluntary Social Insurance.">Orientação na renovação, suspensão e cessação da bolsa e no seguro social voluntário.</p></div></li>
+<li class="item"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h12M13 8l4 4-4 4"/><path d="M5 5v14"/></svg><div class="tx"><p class="tt" data-en="Referral">Encaminhamento</p><p class="ds" data-en="Situations requiring a decision are referred to whoever has the authority to decide.">As situações que exigem decisão são encaminhadas para quem tem competência para decidir.</p></div></li>
+</ul></section>
+<section class="sec"><h2 data-en="About the Unit">Sobre o Núcleo</h2><p class="intro" data-en="The Research Fellow Support Unit (Núcleo do Bolseiro) monitors NOVA FCT research fellows under their statute and the applicable fellowship regulation, and provides support and clarification on the performance of the fellowship contract. It operates within the Human Resources Division.">O Núcleo do Bolseiro acompanha os bolseiros de investigação da NOVA FCT no âmbito do seu estatuto e do regulamento de bolsas aplicável, e presta apoio e esclarecimentos sobre a execução do contrato de bolsa. Funciona na Divisão de Recursos Humanos.</p><p class="subh" data-en="Members">Composição</p><ul class="items">
+<li class="item"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="8" r="3.5"/><path d="M5 20c.8-4 3.6-6 7-6s6.2 2 7 6"/></svg><div class="tx"><p class="tt" data-en="Executive Administrator, representing the Director — head of the Unit">Administradora Executiva, em representação do Diretor — responsável pelo Núcleo</p></div></li>
+<li class="item"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="8" r="3.5"/><path d="M5 20c.8-4 3.6-6 7-6s6.2 2 7 6"/></svg><div class="tx"><p class="tt" data-en="Head of the Human Resources Division">Coordenadora da Divisão de Recursos Humanos</p></div></li>
+<li class="item"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="8" r="3.5"/><path d="M5 20c.8-4 3.6-6 7-6s6.2 2 7 6"/></svg><div class="tx"><p class="tt" data-en="Research Fellowships Officer — Human Resources Division">Responsável pela gestão das Bolsas de Investigação — Divisão de Recursos Humanos</p></div></li>
+<li class="item"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 3h7l4 4v14H7z"/><path d="M14 3v4h4"/><path d="M9.5 15.5h5M9.5 12.5h5"/></svg><div class="tx"><p class="tt" data-en="Despacho n.º 13/2026, of 24 June, issued by the Director of NOVA FCT">Despacho n.º 13/2026, de 24 de junho, do Diretor da NOVA FCT</p><p class="ds" data-en="Appointment of the members of the Research Fellow Support Unit. Official text in Portuguese.">Despacho de nomeação dos membros do Núcleo do Bolseiro.</p></div><a class="btn" href="documentos/Despacho_13_2026_Nucleo_Bolseiro.pdf" target="_blank" rel="noopener" data-en="Open (PDF, 236 KB)">Abrir (PDF, 236 KB)</a></li>
+</ul><p class="subh" data-en="Legal framework">Enquadramento</p><ul class="items">
+<li class="item"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 3h7l4 4v14H7z"/><path d="M14 3v4h4"/><path d="M9.5 15.5h5M9.5 12.5h5"/></svg><div class="tx"><p class="tt" data-en="Estatuto do Bolseiro de Investigação — Article 15">Estatuto do Bolseiro de Investigação — artigo 15.º</p><p class="ds" data-en="Requires each host institution to have a unit that supports research fellows. Official text in Portuguese.">Determina que cada entidade de acolhimento tenha um núcleo de acompanhamento dos bolseiros.</p><details class="art"><summary data-en="Read the article (official text in Portuguese)">Ler o artigo</summary><div class="art-txt" lang="pt-PT"><p>1 - Em cada entidade de acolhimento deve existir um núcleo de acompanhamento dos bolseiros, responsável por prestar toda a informação relativa ao seu Estatuto.</p><p>2 - O regulamento define a composição e modo de funcionamento do núcleo.</p></div></details></div></li>
+<li class="item"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 3h7l4 4v14H7z"/><path d="M14 3v4h4"/><path d="M9.5 15.5h5M9.5 12.5h5"/></svg><div class="tx"><p class="tt" data-en="Regulamento de Bolsas de Investigação da Universidade NOVA de Lisboa — Article 34">Regulamento de Bolsas de Investigação da Universidade NOVA de Lisboa — artigo 34.º</p><p class="ds" data-en="Sets out the mission, composition and two-year term of the Research Fellow Support Unit. Official text in Portuguese.">Define a missão, a composição e o mandato de dois anos do Núcleo do Bolseiro.</p><details class="art"><summary data-en="Read the article (official text in Portuguese)">Ler o artigo</summary><div class="art-txt" lang="pt-PT"><p>1 — Compete ao Núcleo do Bolseiro proceder ao acompanhamento dos bolseiros, devendo designadamente, prestar toda a informação relativa ao seu estatuto, ao Regulamento de Bolsas de Investigação da NOVA e, ainda, prestar apoio e esclarecimentos relativos à execução do seu contrato.</p><p>2 — A Reitoria e as Unidades Orgânicas da NOVA dispõem, individualmente, de um Núcleo do Bolseiro.</p><p>3 — O Núcleo do Bolseiro é composto por um representante do Diretor da Unidade Orgânica no caso dos Núcleos existentes nas Unidades Orgânicas ou um representante do Vice-Reitor para a Investigação no caso do Núcleo da Reitoria, que é responsável pelo Núcleo, e por mais dois elementos, entre eles um técnico com formação ou experiência em gestão de recursos humanos.</p><p>4 — Compete ao Reitor da NOVA ou aos Diretores das Unidades Orgânicas, conforme o caso, proceder à designação dos elementos que compõem o Núcleo do Bolseiro.</p><p>5 — O mandato dos membros do núcleo é de 2 anos.</p><p>6 — O núcleo funciona no Serviço de Gestão de Recursos Humanos.</p></div></details></div></li>
+</ul></section>
+</section>
+  <footer class="footer"><strong data-en="Human Resources Division — Research Fellowships">Divisão de Recursos Humanos — Bolsas de Investigação</strong><br><span data-en="Building I · Room 112 · Monday to Friday, 9:30–16:30">Edifício I · Sala 112 · Segunda a sexta-feira, 9h30–16h30</span> · <a href="mailto:drh.bolsas@fct.unl.pt?subject=Esclarecimento%20de%20D%C3%BAvida%20-%20Bolsas%20de%20Investiga%C3%A7%C3%A3o%20%7C%20NOVA%20FCT">drh.bolsas@fct.unl.pt</a><br><a href="tel:+351212948583">+351 212 948 583</a> <span data-en="— extension 12116">— extensão 12116</span></footer>
+</main>
+<script>
+/* Idioma PT/EN — partilhado com o Portal, as FAQ (portal_lang) e o Guia do Bolseiro (nova-guide-language). */
+(function(){
+  var T={"pt":"Núcleo do Bolseiro | Portal do Bolseiro · NOVA FCT","en":"Research Fellow Support Unit | Fellowship Portal · NOVA FCT"};
+  var els=document.querySelectorAll("[data-en]"),ar=document.querySelectorAll("[data-en-aria]");
+  els.forEach(function(e){e.setAttribute("data-pt",e.textContent)});
+  ar.forEach(function(e){e.setAttribute("data-pt-aria",e.getAttribute("aria-label"))});
+  function aplicar(l){
+    document.documentElement.lang=l==="en"?"en":"pt-PT";document.title=T[l];
+    els.forEach(function(e){e.textContent=e.getAttribute(l==="en"?"data-en":"data-pt")});
+    ar.forEach(function(e){e.setAttribute("aria-label",e.getAttribute(l==="en"?"data-en-aria":"data-pt-aria"))});
+    document.querySelectorAll(".lang button").forEach(function(b){b.setAttribute("aria-pressed",String(b.dataset.lang===l))});
+  }
+  var l="pt";
+  try{if((localStorage.getItem("nova-guide-language")||localStorage.getItem("portal_lang"))==="en")l="en";}catch(e){}
+  document.querySelectorAll(".lang button").forEach(function(b){b.addEventListener("click",function(){
+    l=b.dataset.lang;try{localStorage.setItem("portal_lang",l);localStorage.setItem("nova-guide-language",l);}catch(e){}aplicar(l);});});
+  aplicar(l);
+})();
+</script>
+</body></html>
